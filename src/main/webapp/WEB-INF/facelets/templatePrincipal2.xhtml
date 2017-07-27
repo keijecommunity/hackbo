@@ -1,0 +1,27 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+        xmlns:h="http://java.sun.com/jsf/html"
+        xmlns:f="http://java.sun.com/jsf/core"
+        xmlns:ui="http://java.sun.com/jsf/facelets"
+        xmlns:p="http://primefaces.org/ui"> 
+       	<h:head>
+       		<link rel = "stylesheet" type = "text/css" media="screen" href="#{facesContext.externalContext.request.contextPath}/css/estilo.css"/>
+ 		 	<title><ui:insert name="title">PRINCIPAL JOSE</ui:insert></title>
+		</h:head> 
+<body>
+	<div id="cabecera"><h2>VOSTIC</h2></div>
+	<div id="cuerpo">
+		<div id="menu"><ui:insert name="menu">MENU </ui:insert>	</div>
+		<div id="lateral">
+			<div id="detalle"><ui:insert name="detalle">USFX</ui:insert> </div>
+			<div id="inferior">
+				<div id="contenido"><ui:insert name="contenido"></ui:insert> </div> 
+				<div id="panelderecho"><ui:insert name="panelderecho">panel derecho</ui:insert> </div> 
+			</div>         	 
+		</div>
+	</div>
+	<div id="pie">***************JOSE IGNACIO VACA ENOVORE*****************</div>		
+</body>
+</html>
+

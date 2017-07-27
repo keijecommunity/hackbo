@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://java.sun.com/jsf/html"
+      xmlns:ui="http://java.sun.com/jsf/facelets"
+      xmlns:f="http://java.sun.com/jsf/core"
+      xmlns:p="http://primefaces.org/ui">
+    <h:head>
+        <title>Facelet Title</title>
+    </h:head>
+
+<h:body >  
+
+
+		
+		
+		 <h:form>  	
+
+ 		  <p:messages id="messages"/>
+ 		  
+			 
+ 
+    <p:menubar style=" font-weight:bold; padding:0; background:#daedf4; color:#006699;" autoDisplay="true">
+     	 <p:menuitem  value="Inicio" url="../../comun/facelets/faceletsInicio.xhtml" icon="ui-icon-home"  />
+     	 
+       
+        <p:submenu  label="Gestionar Rutas de Transporte" icon="ui-icon-folder-open" style="font-weight:bold; margin-left:70px;"  > 
+         	 <p:menuitem value="Ver Mapa de Rutas" actionListener="#{ejmBean.funcion}" icon="ui-icon-wrench" disabled="false"  />
+         		 
+        </p:submenu>
+         
+       
+     	<p:menuitem  style="margin-left:750px;" value="Salir" url="../../seguridad/faceletsLogin.xhtml" icon="ui-icon-close" />
+		
+       
+       
+    </p:menubar>
+    
+   
+		
+		
+</h:form>
+ 		  
+</h:body>
+</html>

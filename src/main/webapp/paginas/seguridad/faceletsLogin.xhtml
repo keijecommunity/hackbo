@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://java.sun.com/jsf/html"
+      xmlns:ui="http://java.sun.com/jsf/facelets"
+      xmlns:f="http://java.sun.com/jsf/core"
+      xmlns:p="http://primefaces.org/ui">
+   
+ 
+	<ui:composition template="/WEB-INF/facelets/plantilla.xhtml">
+	
+		<ui:define name="usuario">
+		<script type="text/javascript">
+			function handleLoginRequest(xhr, status, args) {
+				if(args.validationFailed || !args.loggedIn) {
+					
+				} else {
+					
+				}
+			}
+		</script>
+	</ui:define>
+			
+		<ui:define name="menu"/>   
+			
+		
+		<ui:define name="contenido">
+		
+				
+				
+		
+				<h:outputLink id="loginLink" value="javascript:void(0)" onclick="dlg.show()" 
+				title="login" style="text-decoration: none; position: absolute; top:2%; left:40%">	
+					 
+					<p:panel header="SISTEMA SATELITAL" style="text-decoration: none; text-align:center; margin-top:250px;">
+					
+					<p:graphicImage style=" width:100px" value="/images/llave1.gif" />
+					
+					</p:panel> 	
+				</h:outputLink>
+				
+				
+				
+			
+		<p:spacer width="1" height="360" />	
+		
+				
+				<p:growl id="growl" sticky="true" showDetail="true" life="300" />
+	
+				<p:dialog id="dialog" header="ACCESO AL SISTEMA" widgetVar="dlg">
+						
+					<h:form id="form">
+					
+						<h:panelGrid columns="2" cellpadding="5">
+							<h:outputLabel for="username" value="Usuario:" />
+							<p:inputText id="username" value="#{menuPrincipalBean.username}" required="true" label="username" />
+							
+							<h:outputLabel for="password" value="Contrase&ntilde;a:" />
+							<p:password id="password" value="#{menuPrincipalBean.password}" required="true" label="password" feedback="false"/>
+							
+							<f:facet name="footer">
+								<p:commandButton id="loginButton" value="Ingresar" update=":growl" 
+									actionListener="#{menuPrincipalBean.login}" oncomplete="handleLoginRequest(xhr, status, args)"/>
+							</f:facet>
+						</h:panelGrid>
+						
+					</h:form>
+				</p:dialog>
+		</ui:define>
+		
+		
+	</ui:composition>
+ 	
+</html>

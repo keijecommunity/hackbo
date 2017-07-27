@@ -1,0 +1,106 @@
+body{
+	
+	font-family: Verdana;
+	font-size: 13px;
+	color: #000;
+	margin:0;
+	padding:1px;
+	background:#f7fafc;
+	
+}
+#cabecera, #cuerpo, #pie{
+	width: 1300px;*/
+	margin:0px auto;
+	border-color:#f7fafc;
+	border-style:solid;
+	border-width:1px;
+	background:#fff;	
+}
+.jose
+{
+	background: #3baae3  url("/matadero-villa-liz/faces/javax.faces.resource/images/ui-bg_glass_50_3baae3_1x400.png?ln=primefaces-cupertino") 50% 46% repeat-x;
+	
+}
+#cabecera{
+	1background: #3baae3 url("/matadero-villa-liz/faces/javax.faces.resource/images/ui-bg_glass_50_3baae3_1x400.png?ln=primefaces-cupertino") 50% 46% repeat-x;
+	
+background: #3baae3  url("/matadero-villa-liz/faces/javax.faces.resource/images/ui-bg_glass_50_3baae3_1x400.png?ln=primefaces-cupertino") 50% 46% repeat-x;
+	
+	background:#2e81a0;
+	min-width:790px;
+	min-height:30px;
+	text-align: left;
+	padding:3px;
+	
+	color:black;
+	margin: auto;
+	margin-top:5px;
+	border-top-right-radius:7px;
+	border-top-left-radius:7px;
+	border-bottom-right-radius:7px;
+	border-bottom-left-radius:7px;
+	font-family: 'Roboto', sans-serif;
+
+}
+#cuerpo{
+padding:0;
+margin: auto;
+min-width:810px;
+width:1305px;
+background:#f7fafc;
+}
+#pie{
+background: #3baae3  url("/matadero-villa-liz/faces/javax.faces.resource/images/ui-bg_glass_50_3baae3_1x400.png?ln=primefaces-cupertino") 50% 46% repeat-x;
+background:#206984;
+	min-width:799px;
+	min-height:20px;
+	text-align: center;
+	padding:0px;
+	
+	color:white;
+	margin: auto;
+	width:1305px;
+	border-top-right-radius:7px;
+	border-top-left-radius:7px;
+	border-bottom-right-radius:7px;
+	border-bottom-left-radius:7px;
+}
+#menu{
+margin-right:3px;
+width: 340px;
+float:left;
+border-color:red;
+	border-style:solid;
+	border-width:0px;
+min-height:200px;
+padding:1px 0px;
+111background-color: #908977	;
+}
+#lateral{
+float:right;
+width: 1300px;
+border-color:#aaa;
+	border-style:solid;
+	border-width:1px;
+	min-height:630px;
+	padding:1px 1px;
+	border-top-right-radius:10px;
+	border-top-left-radius:10px;
+	background:#f7fafc;
+	border-top-right-radius:7px;
+	border-top-left-radius:7px;
+	border-bottom-right-radius:7px;
+	border-bottom-left-radius:7px;
+	
+}
+
+
+
+#cuerpo::after{
+clear:both;
+content: " ";
+visibility: hidden;
+display:block;
+font-size: 0;
+height:0;
+}

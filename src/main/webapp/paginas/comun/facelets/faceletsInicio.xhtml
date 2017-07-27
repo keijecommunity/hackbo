@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://java.sun.com/jsf/html"
+      xmlns:ui="http://java.sun.com/jsf/facelets"
+      xmlns:f="http://java.sun.com/jsf/core"
+      xmlns:p="http://primefaces.org/ui">
+   
+   <h:head>
+        <style type="text/css">
+        	.btt{
+                width:19px;
+               
+            }
+            .btt:hover {
+                 width:22px;
+                opacity:0.4;   
+                
+                1transform:rotateZ(360deg) ;              
+            }  
+            .upds {
+            width:100px;
+                 
+                             
+            }     
+            .upds:hover {
+                 
+                transition:all 2.7s;
+                transform:rotateZ(720deg) ;  
+                cursor: pointer;            
+            }           
+        </style>
+    </h:head>
+	<ui:composition template="/WEB-INF/facelets/templatePrincipal.xhtml">
+	
+		<ui:define name="lateral">		
+		<ui:include src="formMenu.xhtml"/>
+		
+	
+		<br></br>
+		
+		 <p:spacer width="80" height="80" />	
+		 <center>
+		 <a href="http://www.upds.com.bo" style="text-decoration: none; color: #aaaaaa" title="VISITAR SITIO WEB UPDS">
+<p:graphicImage styleClass="upds" value="/images/logo_upds.png" style=" border-radius:20px; width:250px; text-align: center;"   />
+				</a>
+</center>
+		</ui:define>
+		
+		
+	</ui:composition>
+ 	
+</html>

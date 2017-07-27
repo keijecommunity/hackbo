@@ -1,0 +1,83 @@
+body{
+	
+	font-family: Verdana;
+	font-size: 13px;
+	color: #000;
+	margin:0;
+	padding:1px;
+	background:#eee;
+	
+}
+#cabecera, #cuerpo, #pie{
+	width: 1300px;*/
+	margin:0px auto;
+	border-color:#000000;
+	border-style:solid;
+	border-width:1px;
+	background:#fff;	
+}
+#cabecera{
+	
+background: #cd0a0a   url("/matadero-villa-liz/faces/javax.faces.resource/images/ui-bg_glass_50_3baae3_1x400.png?ln=primefaces-cupertino") 50% 46% repeat-x;
+	min-width:790px;
+	min-height:40px;
+	text-align: left;
+	padding:3px;
+	
+	color:black;
+	margin: auto;
+	
+	border-top-right-radius:1px;
+	border-top-left-radius:1px;
+
+}
+#cuerpo{
+padding:1px 3px;
+margin: auto;
+min-width:800px;
+}
+#pie{
+background-color:#908977	;
+
+	min-width:790px;min-height:40px;
+	text-align: center;
+	padding:0px;
+	
+	color:white;
+	margin: auto;
+	
+	1border-bottom-right-radius:20px;
+	1border-bottom-left-radius:20px;
+}
+#menu{
+margin-right:3px;
+width: 340px;
+float:left;
+border-color:white;
+	border-style:solid;
+	border-width:0px;
+min-height:1200px;
+padding:1px 0px;
+111background-color: #908977	;
+}
+#lateral{
+float:right;
+width: 950px;
+border-color:black;
+	border-style:solid;
+	border-width:1px;
+	min-height:1200px;
+	padding:1px 1px;
+	
+}
+
+
+
+#cuerpo::after{
+clear:both;
+content: " ";
+visibility: hidden;
+display:block;
+font-size: 0;
+height:0;
+}

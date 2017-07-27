@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://java.sun.com/jsf/html"
+      xmlns:ui="http://java.sun.com/jsf/facelets"
+      xmlns:f="http://java.sun.com/jsf/core"
+      xmlns:p="http://primefaces.org/ui">
+    <h:head>
+        <title>Facelet Title</title>
+    </h:head>
+
+	<h:body >
+	<center> </center>
+	
+	
+<p:accordionPanel id="accPanelMenu"  style="width:100%">  
+	<p:tab title="CONFIGURACION DE PLAN DE CUENTAS"> 
+			    	
+
+	<h:form id="form">  
+              
+    	<p:growl id="messages" showDetail="true" />  
+    	<p:contextMenu for="tree">  
+        <p:menuitem value="Agregar Sub-Cuenta" update=":accPanelMenu:form:tree" onclick="dlgcuenta.show()" icon="ui-icon-pencil" />  
+        <p:menuitem value="Eliminar Sub-Cuenta" update=":accPanelMenu:form:tree,:accPanelMenu:form:messages" actionListener="#{menuPrincipalBean.deleteNode}" icon="ui-icon-close"/>  
+    </p:contextMenu>  
+    <center>
+    <h:outputLabel value="PLAN DE CUENTAS" style="font-weight:bold;"/>
+     <p:tree value="#{menuPrincipalBean.root}" var="node" dynamic="true" cache="false"  style="border:1px solid #006699; text-align:left; width:40%;" 
+            selectionMode="single"  selection="#{menuPrincipalBean.selectedNode}" id="tree" nimate="true" >  
+  
+  	
+        <p:ajax event="expand" update=":accPanelMenu:form:messages" listener="#{menuPrincipalBean.onNodeExpand}" />  
+        <p:ajax event="collapse" update=":accPanelMenu:form:messages" listener="#{menuPrincipalBean.onNodeCollapse}" />  
+        <p:ajax event="select" update=":accPanelMenu:form:messages" listener="#{menuPrincipalBean.onNodeSelect}" /> 
+        <p:ajax event="unselect" update=":accPanelMenu:form:messages" listener="#{menuPrincipalBean.onNodeUnselect}" />  
+  	
+        <p:treeNode style="text-align:left; width:100%; font-weight:bold;" expandedIcon="ui-icon-folder-open"  
+                    collapsedIcon="ui-icon-folder-collapsed"  nimate="true">  
+            <h:outputText style="text-align:left;  width:100%; font-weight:bold; 1font-family: 'Aldrich', sans-serif;" value="#{node}" />  
+        </p:treeNode>  
+    </p:tree>  
+	</center>
+	</h:form>     
+			    	
+	</p:tab>
+		   			
+		   			
+</p:accordionPanel>	
+	
+	
+	
+	
+	 	<p:dialog header="Agregar Sub-Cuenta" widgetVar="dlgcuenta" resizable="false"  >  
+      
+  <h:form> 
+        <h:panelGrid columns="2" style="margin-bottom:10px">  
+            <h:outputLabel for="" value="Nombre:" />  
+            
+            <p:inputText id="p4" value="#{menuPrincipalBean.nombreCuenta}" style="margin-left:1px; font-weight:none; width:99%" />
+        						
+          
+        </h:panelGrid>  
+  
+        <p:commandLink   id="gruposd"  actionListener="#{menuPrincipalBean.saveCuenta}"  update=":accPanelMenu:form:messages" style="margin-right:3px;" ajax="true" title="Ver Categorias">
+									<h:graphicImage value="/images/guardar.png"/> 
+	    						</p:commandLink>  
+        </h:form>       
+    
+</p:dialog> 	    
+		 
+	  
+	</h:body>
+</html>

@@ -1,0 +1,38 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml"
+        xmlns:h="http://java.sun.com/jsf/html"
+        xmlns:f="http://java.sun.com/jsf/core"
+        xmlns:ui="http://java.sun.com/jsf/facelets"
+        xmlns:p="http://primefaces.org/ui">   
+
+       <h:head>        
+  			<title>jose</title>
+		</h:head>  
+		
+<h:body >
+
+<h:form id="form">  
+              
+    <p:growl id="messages" showDetail="true" />  
+  
+     <p:tree value="#{menuPrincipalBean.root}" var="node" dynamic="true" cache="false"  style="width:100%;" 
+            selectionMode="single"  selection="#{menuPrincipalBean.selectedNode}" id="tree">  
+  
+  	
+        <p:ajax event="expand" update=":accPanelMenu:form:messages" listener="#{menuPrincipalBean.onNodeExpand}" />  
+        <p:ajax event="collapse" update=":accPanelMenu:form:messages" listener="#{menuPrincipalBean.onNodeCollapse}" />  
+        <p:ajax event="select" update=":accPanelMenu:form:messages,:accPanelMenu:form:p3" listener="#{menuPrincipalBean.onNodeSelect}" /> 
+        <p:ajax event="unselect" update=":accPanelMenu:form:messages" listener="#{menuPrincipalBean.onNodeUnselect}" />  
+  	
+        <p:treeNode style="width:100%; font-weight:bold;" >  
+            <h:outputText style="width:100%; font-weight:bold;" value="#{node}" />  
+        </p:treeNode>  
+    </p:tree>  
+  
+ <p:inputText id="p3" value="#{menuPrincipalBean.seleccionado}" style="margin-left:1px; font-weight:none; width:99%" />
+</h:form>     
+
+</h:body>
+</html>

@@ -1,0 +1,53 @@
+@CHARSET "ISO-8859-1";
+
+body{
+margin:0;
+
+}
+ #container {
+  /* # la almoadilla aplica el estilo a los tag html con ese id */
+  margin: 0 auto;
+  text-align:left;
+  /*width:780px; /* para 800 x 600 */
+  width: 100%;
+ }
+#cabecera{
+padding: 10px;
+  background-color: orange;
+margin-botton:100px solid #eee;
+height: 70px;
+}
+
+#detalle{
+	 float:top;
+padding: 10px;
+ background-color: orange;
+height: 250px;
+text-align: top;
+}
+#elementos{
+padding: 10px;
+text-align: botton;
+}
+#izquierda{
+padding: 10px;
+ background-color: blue;
+ width:500px;
+ float:left;
+text-align: left;
+height: 200px;
+}
+#derecha{
+padding: 10px;
+background-color: blue;
+ width:200px;
+ float:right;
+text-align: right;
+}
+#contenidoPagina{
+padding: 10px;
+text-align: left;
+}
+#piePagina{
+text-align: center;
+}
