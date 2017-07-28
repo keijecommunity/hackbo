@@ -95,7 +95,6 @@
 	#u11451
 	{
 		z-index: 14;
-		padding-bottom: 16px;
 		margin-top: 28px;
 		width: 18.42%;
 		margin-left: 36.67%;
@@ -105,6 +104,7 @@
 	{
 		z-index: 15;
 		min-height: 39px;
+		margin-bottom: -33px;
 		margin-top: 16px;
 		width: 92.31%;
 		left: 3.62%;

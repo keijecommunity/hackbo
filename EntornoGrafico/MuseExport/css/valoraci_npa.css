@@ -1,7 +1,7 @@
 .version.valoraci_npa /* version checker */
 {
-	color: #0000F4;
-	background-color: #60405E;
+	color: #000011;
+	background-color: #DC3D7D;
 }
 
 .js body.initialized
@@ -252,20 +252,20 @@
 
 #u11451
 {
-	position: relative;
 	border-radius: 40px;
+	position: relative;
 	background-color: #662D91;
 }
 
 #u11452-4
 {
 	color: #FFFFFF;
-	line-height: 36px;
 	position: relative;
 	text-align: center;
 	margin-right: -10000px;
 	font-weight: bold;
-	font-size: 30px;
+	font-size: 37px;
+	line-height: 44px;
 	background-color: transparent;
 }
 
@@ -808,7 +808,6 @@ body
 	#u11451
 	{
 		z-index: 14;
-		padding-bottom: 16px;
 		margin-top: 28px;
 		width: 18.42%;
 		margin-left: 36.67%;
@@ -818,6 +817,7 @@ body
 	{
 		z-index: 15;
 		min-height: 39px;
+		margin-bottom: -33px;
 		margin-top: 16px;
 		width: 92.31%;
 		left: 3.62%;
@@ -1015,7 +1015,7 @@ body
 
 	#page
 	{
-		min-height: 682.95px;
+		min-height: 596.95px;
 		padding-bottom: 0px;
 		max-width: 768px;
 	}
@@ -1095,28 +1095,25 @@ body
 	#u11451
 	{
 		z-index: 14;
-		padding-bottom: 16px;
 		margin-top: 28px;
-		width: 18.49%;
+		width: 34.25%;
 		margin-left: 36.72%;
 	}
 
 	#u11452-4
 	{
 		z-index: 15;
-		min-height: 39px;
-		margin-top: 16px;
-		width: 92.26%;
-		left: 3.53%;
+		min-height: 52px;
+		width: 92.4%;
+		left: 3.81%;
 	}
 
 	#widgetu11466
 	{
 		z-index: 19;
 		height: 330px;
-		top: -5px;
-		margin-bottom: -5px;
-		margin-left: 35.81%;
+		margin-top: 28px;
+		margin-left: 35.03%;
 	}
 
 	#widgetu11475
@@ -1285,7 +1282,7 @@ body
 	#u1433-bw
 	{
 		min-height: 95px;
-		margin-top: 77px;
+		margin-top: 10px;
 	}
 }
 
@@ -1381,7 +1378,6 @@ body
 	#u11451
 	{
 		z-index: 10;
-		padding-bottom: 11px;
 		margin-top: 9px;
 		width: 65.32%;
 		margin-left: 7.19%;
@@ -1391,6 +1387,7 @@ body
 	{
 		z-index: 11;
 		min-height: 36px;
+		margin-bottom: -41px;
 		margin-top: 15px;
 		width: 92.35%;
 		left: 3.83%;

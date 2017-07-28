@@ -1,7 +1,7 @@
 .version.emergenciasex /* version checker */
 {
-	color: #000014;
-	background-color: #BC2E87;
+	color: #00000D;
+	background-color: #FE4AE2;
 }
 
 .js body
@@ -640,72 +640,72 @@ body
 	#menuu9537
 	{
 		z-index: 16;
-		width: 18.44%;
-		left: 73.44%;
+		width: 65.94%;
+		left: 34.07%;
 	}
 
 	#u9538
 	{
-		width: 47.46%;
+		width: 49.29%;
 	}
 
 	#u9545
 	{
-		width: 47.46%;
-		left: 50.85%;
+		width: 49.77%;
+		left: 50.24%;
 	}
 
 	#menuu9552
 	{
 		z-index: 29;
-		width: 16.25%;
+		width: 24.07%;
 	}
 
 	#u9557-4
 	{
-		width: 73.08%;
+		width: 81.82%;
 	}
 
 	#u9554:hover #u9557-4
 	{
-		width: 73.08%;
+		width: 81.82%;
 	}
 
 	#u9554:active #u9557-4
 	{
-		width: 73.08%;
+		width: 81.82%;
 	}
 
 	#u9554.MuseMenuActive #u9557-4
 	{
-		width: 73.08%;
+		width: 81.82%;
 	}
 
 	#u9556
 	{
 		z-index: 36;
-		width: 26.93%;
-		left: 73.08%;
+		width: 18.19%;
+		left: 81.82%;
 	}
 
 	#u9554:hover #u9556
 	{
-		width: 26.93%;
+		width: 18.19%;
 	}
 
 	#u9554:active #u9556
 	{
-		width: 26.93%;
+		width: 18.19%;
 	}
 
 	#u9554.MuseMenuActive #u9556
 	{
-		width: 26.93%;
+		width: 18.19%;
 	}
 
 	#u9558
 	{
-		width: 230.77%;
+		width: 155.85%;
 	}
 
 	#u6708

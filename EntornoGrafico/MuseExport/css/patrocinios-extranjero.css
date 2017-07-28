@@ -1,7 +1,7 @@
 .version.patrocinios_extranjero /* version checker */
 {
-	color: #000013;
-	background-color: #1237D0;
+	color: #0000F5;
+	background-color: #9066B9;
 }
 
 .js body
@@ -479,7 +479,7 @@ body
 
 	#page
 	{
-		min-height: 1290.9499999999998px;
+		min-height: 941.9499999999999px;
 		padding-bottom: 0px;
 		max-width: 768px;
 	}
@@ -611,7 +611,7 @@ body
 	#u1433-bw
 	{
 		min-height: 95px;
-		margin-top: 452px;
+		margin-top: 103px;
 	}
 }
 

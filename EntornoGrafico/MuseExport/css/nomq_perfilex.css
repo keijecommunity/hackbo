@@ -108,6 +108,7 @@
 	#u9221-4
 	{
 		z-index: 22;
+		min-height: 52px;
 		margin-right: -10000px;
 		width: 38.34%;
 		left: 37.09%;
@@ -130,6 +131,7 @@
 	#u9222-4
 	{
 		z-index: 26;
+		min-height: 52px;
 		margin-right: -10000px;
 		width: 24.09%;
 		left: 53.5%;
