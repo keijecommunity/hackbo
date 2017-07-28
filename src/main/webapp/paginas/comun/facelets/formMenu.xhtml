@@ -30,7 +30,13 @@
          	 <p:menuitem value="Reg. Nueva Ruta" actionListener="#{mapBean.registro}" icon="ui-icon-pencil" disabled="false" />
          		 
         </p:submenu>
-         
+      
+         <p:submenu  label="Densidad de Rutas y Accidentes" icon="ui-icon-folder-open">
+         	<p:menuitem value="Ver Zonas Densidad" actionListener="#{mapBeanC.mover}" icon="ui-icon-wrench" disabled="false"  />
+         		<p:menuitem value="Reg. Zona Densidad" url="../../bancos/facelets/faceletsCirculo.xhtml" icon="ui-icon-pencil" disabled="false" />
+         		 <p:separator />
+        
+        </p:submenu>
        
      	<p:menuitem  style="margin-left:750px;" value="Salir" url="../../seguridad/faceletsLogin.xhtml" icon="ui-icon-close" />
 		

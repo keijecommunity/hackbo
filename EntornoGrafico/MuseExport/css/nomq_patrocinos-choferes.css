@@ -1,0 +1,83 @@
+	#muse_css_mq
+	{
+		background-color: #FFFFFF;
+	}
+
+	#bp_infinity.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		min-height: 1210px;
+		max-width: 1200px;
+	}
+
+	#page_position_content
+	{
+		margin-bottom: -37px;
+		width: 100%;
+	}
+
+	#u5552
+	{
+		z-index: 14;
+	}
+
+	#u5554
+	{
+		z-index: 16;
+	}
+
+	#u5760
+	{
+		z-index: 18;
+		margin-top: 10px;
+	}
+
+	#u5767
+	{
+		z-index: 20;
+	}
+
+	#u5552_img,#u5554_img,#u5760_img,#u5767_img
+	{
+		width: 100%;
+	}
+
+	#u1433
+	{
+		min-height: 132px;
+		padding-bottom: 20px;
+	}
+
+	#u1436
+	{
+		width: 19.5%;
+		left: 1.67%;
+	}
+
+	#u1446
+	{
+		margin-top: 4px;
+		width: 8.09%;
+		left: 24.59%;
+	}
+
+	#u1456-4
+	{
+		z-index: 10;
+		min-height: 95px;
+		position: relative;
+		margin-right: -10000px;
+		width: 59.42%;
+		left: 35.84%;
+	}
+
+	#u1433-bw
+	{
+		min-height: 132px;
+		margin-top: 19px;
+	}
+
