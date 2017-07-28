@@ -1,7 +1,7 @@
 .version.perfilpa /* version checker */
 {
-	color: #000000;
-	background-color: #320104;
+	color: #00000A;
+	background-color: #E92B60;
 }
 
 .js body
@@ -258,26 +258,35 @@
 	margin: 0px -10000px 0px 0%;
 }
 
-#pu9690-4
+#u9690-4
 {
-	width: 100%;
-	margin-top: 103px;
+	color: #FFFFFF;
+	min-height: 52px;
+	margin-top: 25px;
+	position: relative;
+	font-size: 30px;
+	line-height: 36px;
+	background-color: transparent;
 }
 
-#pu9691-4
+#u9691-4
 {
-	width: 100%;
-	margin-top: 28px;
+	color: #FFFFFF;
+	min-height: 52px;
+	margin-top: 69px;
+	position: relative;
+	font-size: 30px;
+	line-height: 36px;
+	background-color: transparent;
 }
 
-#u9690-4,#u9692-4,#u9691-4,#u9693-4
+#u9692-4,#u9693-4
 {
-	margin-right: -10000px;
 	color: #FFFFFF;
 	min-height: 52px;
 	position: relative;
-	font-size: 36px;
-	line-height: 43px;
+	font-size: 30px;
+	line-height: 36px;
 	background-color: transparent;
 }
 
@@ -421,28 +430,28 @@ body
 	{
 		z-index: 14;
 		width: 12.09%;
-		left: 22.67%;
+		margin-left: 18.09%;
 	}
 
 	#u9692-4
 	{
 		z-index: 22;
 		width: 38.34%;
-		left: 37.09%;
+		margin-left: 20.17%;
 	}
 
 	#u9691-4
 	{
 		z-index: 18;
 		width: 27.84%;
-		left: 22.42%;
+		margin-left: 18.09%;
 	}
 
 	#u9693-4
 	{
 		z-index: 26;
 		width: 24.09%;
-		left: 53.5%;
+		margin-left: 20.17%;
 	}
 
 	#u1433
@@ -477,7 +486,7 @@ body
 	#u1433-bw
 	{
 		min-height: 132px;
-		margin-top: 296px;
+		margin-top: 229px;
 	}
 }
 
@@ -575,28 +584,28 @@ body
 	{
 		z-index: 14;
 		width: 12.11%;
-		left: 22.66%;
+		margin-left: 18.1%;
 	}
 
 	#u9692-4
 	{
 		z-index: 22;
 		width: 38.29%;
-		left: 37.11%;
+		margin-left: 20.19%;
 	}
 
 	#u9691-4
 	{
 		z-index: 18;
 		width: 27.87%;
-		left: 22.4%;
+		margin-left: 18.1%;
 	}
 
 	#u9693-4
 	{
 		z-index: 26;
 		width: 24.09%;
-		left: 53.52%;
+		margin-left: 20.19%;
 	}
 
 	#u1433
@@ -631,7 +640,7 @@ body
 	#u1433-bw
 	{
 		min-height: 95px;
-		margin-top: 228px;
+		margin-top: 169px;
 	}
 }
 
@@ -649,7 +658,7 @@ body
 
 	#page
 	{
-		min-height: 499.67499999999995px;
+		min-height: 499.9749999999999px;
 		padding-bottom: 0px;
 		max-width: 320px;
 	}
@@ -729,28 +738,28 @@ body
 	{
 		z-index: 10;
 		width: 12.19%;
-		left: 22.5%;
+		margin-left: 18.13%;
 	}
 
 	#u9692-4
 	{
 		z-index: 18;
 		width: 38.44%;
-		left: 37.19%;
+		margin-left: 20.32%;
 	}
 
 	#u9691-4
 	{
 		z-index: 14;
 		width: 27.82%;
-		left: 22.5%;
+		margin-left: 18.13%;
 	}
 
 	#u9693-4
 	{
 		z-index: 22;
 		width: 24.07%;
-		left: 53.44%;
+		margin-left: 20.32%;
 	}
 
 	#u1433

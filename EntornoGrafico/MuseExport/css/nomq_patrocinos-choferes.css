@@ -94,11 +94,13 @@
 	#u5552
 	{
 		z-index: 14;
+		margin-top: 13px;
 	}
 
 	#u5554
 	{
 		z-index: 16;
+		margin-top: 10px;
 	}
 
 	#u5760
@@ -110,11 +112,7 @@
 	#u5767
 	{
 		z-index: 20;
-	}
-
-	#u5552_img,#u5554_img,#u5760_img,#u5767_img
-	{
-		width: 100%;
+		margin-top: 9px;
 	}
 
 	#u1433

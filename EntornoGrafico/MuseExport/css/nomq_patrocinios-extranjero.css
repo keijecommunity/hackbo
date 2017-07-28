@@ -94,27 +94,25 @@
 	#u5525
 	{
 		z-index: 14;
+		margin-top: 17px;
 	}
 
 	#u5533
 	{
 		z-index: 16;
+		margin-top: 11px;
 	}
 
 	#u5740
 	{
 		z-index: 18;
+		margin-top: 11px;
 	}
 
 	#u5750
 	{
 		z-index: 20;
 		margin-top: 11px;
-	}
-
-	#u5525_img,#u5533_img,#u5740_img,#u5750_img
-	{
-		width: 100%;
 	}
 
 	#u1433

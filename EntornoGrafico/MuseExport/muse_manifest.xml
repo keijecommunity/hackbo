@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.0.342" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.stoptrafic.org" resolutions="1x" timestamp="1501240486775">
+<manifest alg="2" build="2015.1.0.342" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.stoptrafic.org" resolutions="1x" timestamp="1501249221100">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
     <file name="index.css" crc="4275699788" ref="index"/>
@@ -8,11 +8,11 @@
     <file name="usuario-pasajero.css" crc="3974700689" ref="usuario-pasajero"/>
     <file name="usuario-chofer.css" crc="388209156" ref="usuario-chofer"/>
     <file name="usuario-extranjero.css" crc="3845861775" ref="usuario-extranjero"/>
-    <file name="home-chofer.css" crc="106626379" ref="home-chofer"/>
+    <file name="home-chofer.css" crc="149102207" ref="home-chofer"/>
     <file name="home-pasajero.css" crc="4273084070" ref="home-pasajero"/>
-    <file name="home-extranjero.css" crc="4024547483" ref="home-extranjero"/>
+    <file name="home-extranjero.css" crc="522383568" ref="home-extranjero"/>
     <file name="nomq_preview_master_a-p_g_-maestra.css" crc="16102952" ref="home-chofer:registrarse:iniciar-sesión:usuario-extranjero:home-pasajero:index:usuario-pasajero:usuario-chofer:home-extranjero:patrocinios-extranjero:patrocinios-pasajero:patrocinos-choferes:perfilch:emergenciasch:perfilex:emergenciaspa:emergenciasex:perfilpa:valoraciónpa:valoraciónex:valoraciónch"/>
-    <file name="nomq_home-chofer.css" crc="4013609909" ref="home-chofer"/>
+    <file name="nomq_home-chofer.css" crc="306024438" ref="home-chofer"/>
     <file name="nomq_registrarse.css" crc="4191340958" ref="registrarse"/>
     <file name="nomq_iniciar-sesi_n.css" crc="485832801" ref="iniciar-sesión"/>
     <file name="nomq_usuario-extranjero.css" crc="233559534" ref="usuario-extranjero"/>
@@ -20,29 +20,29 @@
     <file name="nomq_index.css" crc="4179261173" ref="index"/>
     <file name="nomq_usuario-pasajero.css" crc="159819743" ref="usuario-pasajero"/>
     <file name="nomq_usuario-chofer.css" crc="4165554919" ref="usuario-chofer"/>
-    <file name="nomq_home-extranjero.css" crc="4023721632" ref="home-extranjero"/>
-    <file name="patrocinios-extranjero.css" crc="7967600" ref="patrocinios-extranjero"/>
-    <file name="nomq_patrocinios-extranjero.css" crc="3953164511" ref="patrocinios-extranjero"/>
-    <file name="patrocinios-pasajero.css" crc="127064328" ref="patrocinios-pasajero"/>
-    <file name="nomq_patrocinios-pasajero.css" crc="177529641" ref="patrocinios-pasajero"/>
-    <file name="patrocinos-choferes.css" crc="3953435298" ref="patrocinos-choferes"/>
-    <file name="nomq_patrocinos-choferes.css" crc="3760902306" ref="patrocinos-choferes"/>
-    <file name="perfilch.css" crc="533077122" ref="perfilch"/>
-    <file name="nomq_perfilch.css" crc="109978623" ref="perfilch"/>
-    <file name="emergenciasch.css" crc="3838020755" ref="emergenciasch"/>
-    <file name="nomq_emergenciasch.css" crc="3994680231" ref="emergenciasch"/>
-    <file name="perfilex.css" crc="481685639" ref="perfilex"/>
-    <file name="nomq_perfilex.css" crc="23546803" ref="perfilex"/>
-    <file name="emergenciaspa.css" crc="292831646" ref="emergenciaspa"/>
-    <file name="nomq_emergenciaspa.css" crc="3911364196" ref="emergenciaspa"/>
-    <file name="emergenciasex.css" crc="3790917835" ref="emergenciasex"/>
-    <file name="nomq_emergenciasex.css" crc="179273953" ref="emergenciasex"/>
-    <file name="perfilpa.css" crc="3277060" ref="perfilpa"/>
-    <file name="nomq_perfilpa.css" crc="4044916734" ref="perfilpa"/>
-    <file name="valoraci_npa.css" crc="4227724197" ref="valoraciónpa"/>
-    <file name="nomq_valoraci_npa.css" crc="327545534" ref="valoraciónpa"/>
-    <file name="valoraci_nex.css" crc="399657772" ref="valoraciónex"/>
-    <file name="nomq_valoraci_nex.css" crc="379323084" ref="valoraciónex"/>
+    <file name="nomq_home-extranjero.css" crc="499320531" ref="home-extranjero"/>
+    <file name="patrocinios-extranjero.css" crc="319961040" ref="patrocinios-extranjero"/>
+    <file name="nomq_patrocinios-extranjero.css" crc="3864783229" ref="patrocinios-extranjero"/>
+    <file name="patrocinios-pasajero.css" crc="3946716130" ref="patrocinios-pasajero"/>
+    <file name="nomq_patrocinios-pasajero.css" crc="125752225" ref="patrocinios-pasajero"/>
+    <file name="patrocinos-choferes.css" crc="12514316" ref="patrocinos-choferes"/>
+    <file name="nomq_patrocinos-choferes.css" crc="3865687931" ref="patrocinos-choferes"/>
+    <file name="perfilch.css" crc="209923009" ref="perfilch"/>
+    <file name="nomq_perfilch.css" crc="166506686" ref="perfilch"/>
+    <file name="emergenciasch.css" crc="3842053775" ref="emergenciasch"/>
+    <file name="nomq_emergenciasch.css" crc="433475210" ref="emergenciasch"/>
+    <file name="perfilex.css" crc="367395724" ref="perfilex"/>
+    <file name="nomq_perfilex.css" crc="286598004" ref="perfilex"/>
+    <file name="emergenciaspa.css" crc="271884802" ref="emergenciaspa"/>
+    <file name="nomq_emergenciaspa.css" crc="4256085044" ref="emergenciaspa"/>
+    <file name="emergenciasex.css" crc="347876999" ref="emergenciasex"/>
+    <file name="nomq_emergenciasex.css" crc="4082300134" ref="emergenciasex"/>
+    <file name="perfilpa.css" crc="183053152" ref="perfilpa"/>
+    <file name="nomq_perfilpa.css" crc="492172141" ref="perfilpa"/>
+    <file name="valoraci_npa.css" crc="4099948638" ref="valoraciónpa"/>
+    <file name="nomq_valoraci_npa.css" crc="232378949" ref="valoraciónpa"/>
+    <file name="valoraci_nex.css" crc="446979092" ref="valoraciónex"/>
+    <file name="nomq_valoraci_nex.css" crc="310052897" ref="valoraciónex"/>
     <file name="valoraci_nch.css" crc="482858018" ref="valoraciónch"/>
     <file name="nomq_valoraci_nch.css" crc="160585888" ref="valoraciónch"/>
   </folder>
@@ -180,18 +180,15 @@
     <file name="los tres.jpg" crc="3938679372" seo="true" ref="patrocinos-choferes:patrocinios-extranjero:patrocinios-pasajero"/>
     <file name="los treso.jpg" crc="359249721" seo="true" ref="patrocinos-choferes:patrocinios-extranjero:patrocinios-pasajero"/>
     <file name="pasajero.jpg" crc="3843296262" seo="true" ref="patrocinios-pasajero"/>
-    <file name="serviciobomberos179x319.jpg" crc="4101762964" seo="true" ref="home-pasajero"/>
-    <file name="serviciopolicia179x319.jpg" crc="202813658" seo="true" ref="home-pasajero"/>
-    <file name="sevicioambulancia177x315.jpg" crc="234145495" seo="true" ref="home-pasajero"/>
+    <file name="serviciobomberos179x319.jpg" crc="4101762964" seo="true" ref="home-pasajero:home-extranjero"/>
+    <file name="serviciopolicia179x319.jpg" crc="202813658" seo="true" ref="home-pasajero:home-extranjero"/>
+    <file name="sevicioambulancia177x315.jpg" crc="234145495" seo="true" ref="home-pasajero:home-extranjero"/>
     <file name="serviciobomberos89x157.jpg" crc="4004288321" seo="true" ref="home-chofer"/>
     <file name="serviciopolicia89x157.jpg" crc="4083759648" seo="true" ref="home-chofer"/>
     <file name="sevicioambulancia88x155.jpg" crc="4016337452" seo="true" ref="home-chofer"/>
     <file name="serviciobomberos176x313.jpg" crc="213690838" seo="true" ref="emergenciaspa"/>
     <file name="serviciopolicia176x313.jpg" crc="4160354330" seo="true" ref="emergenciaspa"/>
     <file name="sevicioambulancia177x314.jpg" crc="486118612" seo="true" ref="emergenciaspa"/>
-    <file name="serviciobomberos47x84.jpg" crc="3789049096" seo="true" ref="emergenciaspa"/>
-    <file name="serviciopolicia47x84.jpg" crc="468107594" seo="true" ref="emergenciaspa"/>
-    <file name="sevicioambulancia47x84.jpg" crc="4034139193" seo="true" ref="emergenciaspa"/>
     <file name="serviciobomberos79x140.jpg" crc="312779797" seo="true" ref="home-pasajero"/>
     <file name="serviciopolicia79x140.jpg" crc="3770602552" seo="true" ref="home-pasajero"/>
     <file name="sevicioambulancia78x139.jpg" crc="45337502" seo="true" ref="home-pasajero"/>
@@ -233,6 +230,12 @@
     <file name="u11588-17-r3.png" crc="333659900" ref="valoraciónch"/>
     <file name="u11588-17-m3.png" crc="55075016" ref="valoraciónch"/>
     <file name="u11588-17-fs3.png" crc="437773354" ref="valoraciónch"/>
+    <file name="serviciobomberos74x131.jpg" crc="3876459860" seo="true" ref="emergenciaspa"/>
+    <file name="serviciopolicia74x131.jpg" crc="307547952" seo="true" ref="emergenciaspa"/>
+    <file name="sevicioambulancia74x131.jpg" crc="32386510" seo="true" ref="emergenciaspa"/>
+    <file name="serviciobomberos89x158.jpg" crc="4033020713" seo="true" ref="home-extranjero"/>
+    <file name="serviciopolicia89x158.jpg" crc="149283961" seo="true" ref="home-extranjero"/>
+    <file name="sevicioambulancia88x156.jpg" crc="4182996647" seo="true" ref="home-extranjero"/>
   </folder>
   <file name="index.html" crc="4129338754" seo="true" mt="1501225422041" redirect="true"/>
   <file name="iniciar-sesión.html" crc="229890241" seo="true" mt="1501231444576" redirect="true"/>
@@ -241,18 +244,18 @@
   <file name="usuario-extranjero.html" crc="39170157" seo="true" mt="1501219077996" redirect="true"/>
   <file name="usuario-chofer.html" crc="286680310" seo="true" mt="1501219083226" redirect="true"/>
   <file name="home-pasajero.html" crc="3916816636" seo="true" mt="1501240286259" redirect="true"/>
-  <file name="home-extranjero.html" crc="3920007413" seo="true" mt="1501240314432" redirect="true"/>
-  <file name="home-chofer.html" crc="3873334368" seo="true" mt="1501240326731" redirect="true"/>
-  <file name="patrocinos-choferes.html" crc="454505720" seo="true" mt="1501240338906" redirect="true"/>
-  <file name="patrocinios-extranjero.html" crc="3905331951" seo="true" mt="1501237815260" redirect="true"/>
-  <file name="patrocinios-pasajero.html" crc="8383404" seo="true" mt="1501240352832" redirect="true"/>
-  <file name="emergenciaspa.html" crc="182042360" seo="true" mt="1501240364425" redirect="true"/>
-  <file name="emergenciasex.html" crc="400737560" seo="true" mt="1501240376486" redirect="true"/>
-  <file name="emergenciasch.html" crc="190838171" seo="true" mt="1501240389309" redirect="true"/>
-  <file name="perfilpa.html" crc="301398792" seo="true" mt="1501240400512" redirect="true"/>
-  <file name="perfilex.html" crc="4207744618" seo="true" mt="1501240411466" redirect="true"/>
-  <file name="perfilch.html" crc="135214504" seo="true" mt="1501240426321" redirect="true"/>
-  <file name="valoraciónpa.html" crc="161594282" seo="true" mt="1501240442164" redirect="true"/>
-  <file name="valoraciónex.html" crc="3878073041" seo="true" mt="1501240460426" redirect="true"/>
+  <file name="home-extranjero.html" crc="3842780024" seo="true" mt="1501249202775" redirect="true"/>
+  <file name="home-chofer.html" crc="157920966" seo="true" mt="1501249215391" redirect="true"/>
+  <file name="patrocinos-choferes.html" crc="3823226390" seo="true" mt="1501247709513" redirect="true"/>
+  <file name="patrocinios-extranjero.html" crc="3777035726" seo="true" mt="1501247721980" redirect="true"/>
+  <file name="patrocinios-pasajero.html" crc="392706163" seo="true" mt="1501247734857" redirect="true"/>
+  <file name="emergenciaspa.html" crc="265452325" seo="true" mt="1501247745169" redirect="true"/>
+  <file name="emergenciasex.html" crc="4097613071" seo="true" mt="1501247755738" redirect="true"/>
+  <file name="emergenciasch.html" crc="235016538" seo="true" mt="1501247764878" redirect="true"/>
+  <file name="perfilpa.html" crc="511936203" seo="true" mt="1501247780969" redirect="true"/>
+  <file name="perfilex.html" crc="4201731927" seo="true" mt="1501247789063" redirect="true"/>
+  <file name="perfilch.html" crc="80729094" seo="true" mt="1501247800157" redirect="true"/>
+  <file name="valoraciónpa.html" crc="4027121805" seo="true" mt="1501247814295" redirect="true"/>
+  <file name="valoraciónex.html" crc="3829437365" seo="true" mt="1501247832550" redirect="true"/>
   <file name="valoraciónch.html" crc="4167396218" seo="true" mt="1501240476911" redirect="true"/>
 </manifest>

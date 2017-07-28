@@ -1,7 +1,7 @@
 .version.patrocinios_pasajero /* version checker */
 {
-	color: #000007;
-	background-color: #92D908;
+	color: #0000EB;
+	background-color: #3E1BE2;
 }
 
 .js body
@@ -193,7 +193,6 @@
 #menuu12791
 {
 	margin-right: -10000px;
-	left: -98px;
 	border-width: 0px;
 	position: relative;
 	border-color: transparent;
@@ -256,54 +255,17 @@
 	margin: 0px -10000px 0px 0%;
 }
 
-#u5545
+#u5545,#u5774,#u5779,#u5791
 {
-	border-radius: 40px;
-	margin-top: 17px;
+	border-radius: 15px;
 	position: relative;
 	width: 100%;
 	background-color: transparent;
 }
 
-#u5545 .clip_frame
+#u5545 .clip_frame,#u5774 .clip_frame,#u5779 .clip_frame,#u5791 .clip_frame
 {
-	-webkit-border-radius: 40px 40px 40px 40px;
-}
-
-#u5774
-{
-	border-radius: 37px;
-	margin-top: 17px;
-	position: relative;
-	width: 100%;
-	background-color: transparent;
-}
-
-#u5779
-{
-	border-radius: 37px;
-	position: relative;
-	width: 100%;
-	background-color: transparent;
-}
-
-#u5774 .clip_frame,#u5779 .clip_frame
-{
-	-webkit-border-radius: 37px 37px 37px 37px;
-}
-
-#u5791
-{
-	border-radius: 31px;
-	margin-top: 18px;
-	position: relative;
-	width: 100%;
-	background-color: transparent;
-}
-
-#u5791 .clip_frame
-{
-	-webkit-border-radius: 31px 31px 31px 31px;
+	-webkit-border-radius: 15px 15px 15px 15px;
 }
 
 #u1433_align_to_page
@@ -342,7 +304,7 @@ body
 	position: relative;
 }
 
-#pu897-3,#u1436_img
+#pu897-3,#u5545_img,#u5774_img,#u5779_img,#u5791_img,#u1436_img
 {
 	width: 100%;
 }
@@ -429,6 +391,7 @@ body
 		z-index: 56;
 		width: 18.34%;
 		margin-left: 81.67%;
+		left: -98px;
 	}
 
 	#u12792
@@ -445,11 +408,13 @@ body
 	#u5545
 	{
 		z-index: 14;
+		margin-top: 17px;
 	}
 
 	#u5774
 	{
 		z-index: 16;
+		margin-top: 17px;
 	}
 
 	#u5779
@@ -461,11 +426,7 @@ body
 	#u5791
 	{
 		z-index: 20;
-	}
-
-	#u5545_img,#u5774_img,#u5779_img,#u5791_img
-	{
-		width: 100%;
+		margin-top: 18px;
 	}
 
 	#u1433
@@ -581,6 +542,7 @@ body
 		z-index: 56;
 		width: 18.36%;
 		margin-left: 81.65%;
+		left: -98px;
 	}
 
 	#u12792
@@ -597,11 +559,13 @@ body
 	#u5545
 	{
 		z-index: 14;
+		margin-top: 17px;
 	}
 
 	#u5774
 	{
 		z-index: 16;
+		margin-top: 17px;
 	}
 
 	#u5779
@@ -613,11 +577,7 @@ body
 	#u5791
 	{
 		z-index: 20;
-	}
-
-	#u5545_img,#u5774_img,#u5779_img,#u5791_img
-	{
-		width: 100%;
+		margin-top: 18px;
 	}
 
 	#u1433
@@ -670,7 +630,7 @@ body
 
 	#page
 	{
-		min-height: 1232px;
+		min-height: 544px;
 		max-width: 320px;
 	}
 
@@ -730,47 +690,44 @@ body
 	#menuu12791
 	{
 		z-index: 52;
-		width: 18.44%;
-		margin-left: 81.57%;
+		width: 57.19%;
+		margin-left: 42.82%;
+		left: 0px;
 	}
 
 	#u12792
 	{
-		width: 47.46%;
+		width: 49.19%;
 	}
 
 	#u12799
 	{
-		width: 47.46%;
-		left: 50.85%;
+		width: 49.73%;
+		left: 50.28%;
 	}
 
 	#u5545
 	{
 		z-index: 10;
+		margin-top: 5px;
 	}
 
 	#u5774
 	{
 		z-index: 12;
+		margin-top: 4px;
 	}
 
 	#u5779
 	{
 		z-index: 14;
-		margin-top: 16px;
+		margin-top: 4px;
 	}
 
 	#u5791
 	{
 		z-index: 16;
-	}
-
-	#u5545_img,#u5774_img,#u5779_img,#u5791_img
-	{
-		padding-right: 115px;
-		padding-bottom: 24px;
-		width: 64.07%;
+		margin-top: 4px;
 	}
 
 	#u1433
@@ -795,7 +752,7 @@ body
 	#u1433-bw
 	{
 		min-height: 35px;
-		margin-top: 811px;
+		margin-top: 174px;
 	}
 
 	body
