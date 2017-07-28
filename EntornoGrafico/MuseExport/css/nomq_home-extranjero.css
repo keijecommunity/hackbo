@@ -20,39 +20,9 @@
 		width: 100%;
 	}
 
-	#menuu2048
-	{
-		z-index: 14;
-		width: 26.67%;
-		left: 8.34%;
-	}
-
-	#u2063
-	{
-		width: 24.38%;
-	}
-
-	#u2056
-	{
-		width: 24.38%;
-		left: 25%;
-	}
-
-	#u2049
-	{
-		width: 24.69%;
-		left: 50%;
-	}
-
-	#u2070
-	{
-		width: 24.69%;
-		left: 75.32%;
-	}
-
 	#menuu2077
 	{
-		z-index: 39;
+		z-index: 14;
 		width: 18.34%;
 		left: 73.5%;
 	}
@@ -68,6 +38,59 @@
 		left: 50.46%;
 	}
 
+	#menuu6205
+	{
+		z-index: 109;
+		width: 16.34%;
+	}
+
+	#u6239-4
+	{
+		width: 92.86%;
+	}
+
+	#u6237:hover #u6239-4
+	{
+		width: 92.86%;
+	}
+
+	#u6237:active #u6239-4
+	{
+		width: 92.86%;
+	}
+
+	#u6237.MuseMenuActive #u6239-4
+	{
+		width: 92.86%;
+	}
+
+	#u6238
+	{
+		z-index: 116;
+		width: 7.15%;
+		left: 92.86%;
+	}
+
+	#u6237:hover #u6238
+	{
+		width: 7.15%;
+	}
+
+	#u6237:active #u6238
+	{
+		width: 7.15%;
+	}
+
+	#u6237.MuseMenuActive #u6238
+	{
+		width: 7.15%;
+	}
+
+	#u6207
+	{
+		width: 61.23%;
+	}
+
 	#pu4299
 	{
 		padding-bottom: 1px;
@@ -77,115 +100,115 @@
 
 	#u4299
 	{
-		z-index: 53;
+		z-index: 28;
 		width: 15.5%;
 		left: 37.25%;
 	}
 
 	#u4300-4
 	{
-		z-index: 54;
+		z-index: 29;
 		width: 84.41%;
 		left: 7.53%;
 	}
 
 	#u4301
 	{
-		z-index: 58;
+		z-index: 33;
 		width: 15.5%;
 		left: 3.09%;
 	}
 
 	#pamphletu4302
 	{
-		z-index: 59;
+		z-index: 34;
 		left: 3.17%;
 	}
 
 	#u4329
 	{
-		z-index: 60;
+		z-index: 35;
 	}
 
 	#u4331-4
 	{
-		z-index: 63;
+		z-index: 38;
 	}
 
 	#u4333
 	{
-		z-index: 70;
+		z-index: 45;
 	}
 
 	#u4336-4
 	{
-		z-index: 71;
+		z-index: 46;
 	}
 
 	#u4307popup
 	{
-		z-index: 77;
+		z-index: 52;
 	}
 
 	#u4308
 	{
-		z-index: 78;
+		z-index: 53;
 	}
 
 	#widgetu4309
 	{
-		z-index: 79;
+		z-index: 54;
 		left: 20.86%;
 	}
 
 	#widgetu4310
 	{
-		z-index: 80;
+		z-index: 55;
 	}
 
 	#u4312-4
 	{
-		z-index: 81;
+		z-index: 56;
 	}
 
 	#u4313-4
 	{
-		z-index: 85;
+		z-index: 60;
 	}
 
 	#widgetu4314
 	{
-		z-index: 89;
+		z-index: 64;
 	}
 
 	#u4317-4
 	{
-		z-index: 90;
+		z-index: 65;
 	}
 
 	#u4316-4
 	{
-		z-index: 94;
+		z-index: 69;
 	}
 
 	#u4319-4
 	{
-		z-index: 98;
+		z-index: 73;
 	}
 
 	#u4318-4
 	{
-		z-index: 102;
+		z-index: 77;
 	}
 
 	#u4320-4
 	{
-		z-index: 106;
+		z-index: 81;
 	}
 
 	#u4321-17
 	{
-		z-index: 110;
+		z-index: 85;
 		background-image: url("../images/u4321-17.png");
 	}
 
@@ -206,27 +229,27 @@
 
 	#u4322
 	{
-		z-index: 127;
+		z-index: 102;
 	}
 
 	#u4323
 	{
-		z-index: 128;
+		z-index: 103;
 	}
 
 	#u4327
 	{
-		z-index: 130;
+		z-index: 105;
 	}
 
 	#u4325
 	{
-		z-index: 132;
+		z-index: 107;
 	}
 
 	#u4298
 	{
-		z-index: 52;
+		z-index: 27;
 		top: -363px;
 		margin-bottom: -363px;
 		width: 83.59%;

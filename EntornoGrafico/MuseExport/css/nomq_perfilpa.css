@@ -10,40 +10,8 @@
 
 	#page
 	{
-		min-height: 1210px;
+		min-height: 683px;
 		max-width: 1200px;
-	}
-
-	#page_position_content
-	{
-		margin-bottom: -37px;
-		width: 100%;
-	}
-
-	#u5552
-	{
-		z-index: 14;
-	}
-
-	#u5554
-	{
-		z-index: 16;
-	}
-
-	#u5760
-	{
-		z-index: 18;
-		margin-top: 10px;
-	}
-
-	#u5767
-	{
-		z-index: 20;
-	}
-
-	#u5552_img,#u5554_img,#u5760_img,#u5767_img
-	{
-		width: 100%;
 	}
 
 	#u1433
@@ -78,6 +46,12 @@
 	#u1433-bw
 	{
 		min-height: 132px;
-		margin-top: 19px;
+		margin-bottom: -37px;
+	}
+
+	.verticalspacer
+	{
+		margin-bottom: -70px;
+		min-height: 604px;
 	}
 

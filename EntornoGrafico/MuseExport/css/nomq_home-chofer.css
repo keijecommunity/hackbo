@@ -43,106 +43,10 @@
 		left: 50.46%;
 	}
 
-	#pamphletu1933
-	{
-		z-index: 30;
-		height: 83px;
-		padding-bottom: 375px;
-		margin-top: 9px;
-		margin-left: 8.09%;
-	}
-
-	#u1934
-	{
-		z-index: 31;
-		width: 186px;
-		left: 201px;
-	}
-
-	#u1935
-	{
-		width: 186px;
-		height: 82px;
-	}
-
-	#u1935:hover
-	{
-		width: 185px;
-		height: 81px;
-	}
-
-	#u1935.PamphletThumbSelected
-	{
-		width: 186px;
-		height: 82px;
-	}
-
-	#u1939
-	{
-		width: 611px;
-		top: 82px;
-	}
-
-	#u1939popup
-	{
-		z-index: 33;
-	}
-
-	#u1954
-	{
-		z-index: 34;
-		width: 609px;
-		height: 374px;
-	}
-
-	#u1955
-	{
-		z-index: 35;
-		width: 29.4%;
-		left: 3.12%;
-	}
-
-	#u1959
-	{
-		z-index: 37;
-		width: 29.4%;
-		left: 34.98%;
-	}
-
-	#u1957
-	{
-		z-index: 39;
-		width: 29.07%;
-		left: 67.66%;
-	}
-
-	#pu1929
-	{
-		margin-top: -458px;
-		width: 100%;
-	}
-
-	#u1929
-	{
-		z-index: 20;
-		padding-bottom: 12px;
-		width: 15.5%;
-		left: 8.25%;
-	}
-
-	#u1930-4
-	{
-		z-index: 21;
-		margin-top: 12px;
-		width: 84.41%;
-		left: 8.07%;
-	}
-
 	#menuu4661
 	{
 		z-index: 54;
-		margin-top: 29px;
-		left: 109px;
+		left: 99px;
 		width: 16.34%;
 	}
 
@@ -240,6 +144,101 @@
 	#u4668.MuseMenuActive #u4669-4
 	{
 		width: 95%;
+	}
+
+	#pamphletu1933
+	{
+		z-index: 30;
+		height: 83px;
+		padding-bottom: 375px;
+		margin-top: 9px;
+		margin-left: 8.09%;
+	}
+
+	#u1934
+	{
+		z-index: 31;
+		width: 186px;
+		left: 201px;
+	}
+
+	#u1935
+	{
+		width: 186px;
+		height: 82px;
+	}
+
+	#u1935:hover
+	{
+		width: 185px;
+		height: 81px;
+	}
+
+	#u1935.PamphletThumbSelected
+	{
+		width: 186px;
+		height: 82px;
+	}
+
+	#u1939
+	{
+		width: 611px;
+		top: 82px;
+	}
+
+	#u1939popup
+	{
+		z-index: 33;
+	}
+
+	#u1954
+	{
+		z-index: 34;
+		width: 609px;
+		height: 374px;
+	}
+
+	#u1955
+	{
+		z-index: 35;
+		width: 29.4%;
+		left: 3.12%;
+	}
+
+	#u1959
+	{
+		z-index: 37;
+		width: 29.4%;
+		left: 34.98%;
+	}
+
+	#u1957
+	{
+		z-index: 39;
+		width: 29.07%;
+		left: 67.66%;
+	}
+
+	#pu1929
+	{
+		margin-top: -458px;
+		width: 100%;
+	}
+
+	#u1929
+	{
+		z-index: 20;
+		padding-bottom: 12px;
+		width: 15.5%;
+		left: 8.25%;
+	}
+
+	#u1930-4
+	{
+		z-index: 21;
+		margin-top: 12px;
+		width: 84.41%;
+		left: 8.07%;
 	}
 
 	#u1931
