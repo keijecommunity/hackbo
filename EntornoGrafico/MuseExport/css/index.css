@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000F3;
-	background-color: #B955D4;
+	color: #0000FE;
+	background-color: #DA004C;
 }
 
 .js body.initialized
@@ -300,7 +300,6 @@ body
 	#u251
 	{
 		z-index: 44;
-		padding-bottom: 4px;
 		margin-right: -10000px;
 		margin-top: 508px;
 		width: 22.92%;
@@ -310,7 +309,7 @@ body
 	#u254-4
 	{
 		z-index: 45;
-		min-height: 63px;
+		min-height: 32px;
 		margin-top: 4px;
 		width: 90.91%;
 		left: 4.73%;
@@ -438,7 +437,6 @@ body
 	#u251
 	{
 		z-index: 44;
-		padding-bottom: 4px;
 		margin-top: 109px;
 		width: 22.92%;
 		margin-left: 38.55%;
@@ -447,7 +445,7 @@ body
 	#u254-4
 	{
 		z-index: 45;
-		min-height: 63px;
+		min-height: 32px;
 		margin-top: 4px;
 		width: 90.91%;
 		left: 4.55%;
@@ -515,7 +513,7 @@ body
 	#u1433-bw
 	{
 		min-height: 95px;
-		margin-top: 343px;
+		margin-top: 378px;
 	}
 }
 
