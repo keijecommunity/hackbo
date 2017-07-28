@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #00000F;
-	background-color: #A5E13C;
+	color: #00000B;
+	background-color: #377FA7;
 }
 
 .js body.initialized
@@ -155,7 +155,7 @@
 	cursor: pointer;
 }
 
-#u1423
+#u17845
 {
 	margin-right: -10000px;
 	width: 100%;
@@ -230,7 +230,7 @@ body
 	position: relative;
 }
 
-#pu897-3,#pu1423,#u1423_img,#u201_img,#u241_img,#u216_img,#u1436_img
+#pu897-3,#pu17845,#u17845_img,#u201_img,#u241_img,#u216_img,#u1436_img
 {
 	width: 100%;
 }
@@ -288,7 +288,7 @@ body
 		left: 66.82%;
 	}
 
-	#u1423
+	#u17845
 	{
 		z-index: 14;
 	}
@@ -424,7 +424,7 @@ body
 		left: 67.02%;
 	}
 
-	#u1423
+	#u17845
 	{
 		z-index: 14;
 	}
@@ -558,7 +558,7 @@ body
 		left: 67.09%;
 	}
 
-	#u1423
+	#u17845
 	{
 		z-index: 10;
 	}

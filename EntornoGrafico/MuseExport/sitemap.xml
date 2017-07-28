@@ -31,12 +31,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.stoptrafic.org/images/traficbo1200ds.jpg</loc>
-    <lastmod>2017-07-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://www.stoptrafic.org/images/xkeije%20comunity%20logo.png</loc>
     <lastmod>2017-07-28</lastmod>
     <changefreq>weekly</changefreq>
@@ -56,18 +50,6 @@
   </url>
   <url>
     <loc>http://www.stoptrafic.org/images/sevicioambulancia.jpg</loc>
-    <lastmod>2017-07-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.stoptrafic.org/images/traficbo1200ds768x400.jpg</loc>
-    <lastmod>2017-07-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.stoptrafic.org/images/traficbo1200ds320x167.jpg</loc>
     <lastmod>2017-07-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -278,6 +260,36 @@
   </url>
   <url>
     <loc>http://www.stoptrafic.org/images/sevicioambulancia88x156.jpg</loc>
+    <lastmod>2017-07-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.stoptrafic.org/images/traficbo1200ds-recuperado.jpg</loc>
+    <lastmod>2017-07-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.stoptrafic.org/images/traficbo1200ds-recuperado768x400.jpg</loc>
+    <lastmod>2017-07-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.stoptrafic.org/images/traficbo1200ds-recuperado320x167.jpg</loc>
+    <lastmod>2017-07-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.stoptrafic.org/images/traficbo1200ds-recuperado829x432.jpg</loc>
+    <lastmod>2017-07-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.stoptrafic.org/images/traficbo1200ds-recuperado324x169.jpg</loc>
     <lastmod>2017-07-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
