@@ -54,8 +54,7 @@
   		<result property="titulo" column="titulo"/>  
   		<result property="tipo" column="tipo"/> 
   		<result property="d" column="d"/> 	
-  		<result property="descr" column="descr"/> 	
-  		
+  		<result property="descr" column="descr"/> 	  		
   		<result property="cod" column="cod"/> 
   		<result property="fam" column="fam"/> 
   		<result property="dim" column="dim"/> 
