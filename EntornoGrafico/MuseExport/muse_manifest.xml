@@ -1,36 +1,43 @@
-<manifest alg="2" build="2015.1.0.342" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.stoptrafic.org" resolutions="1x" timestamp="1501203503808">
+<manifest alg="2" build="2015.1.0.342" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.stoptrafic.org" resolutions="1x" timestamp="1501212943224">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
-    <file name="index.css" crc="176268474" ref="index"/>
-    <file name="iniciar-sesi_n.css" crc="3854006701" ref="iniciar-sesión"/>
-    <file name="master_a-p_g_-maestra.css" crc="4183091771" ref="registrarse:index:iniciar-sesión:usuario-pasajero:usuario-chofer:usuario-extranjero"/>
-    <file name="registrarse.css" crc="3946412790" ref="registrarse"/>
-    <file name="usuario-pasajero.css" crc="3983627785" ref="usuario-pasajero"/>
-    <file name="usuario-chofer.css" crc="3860787593" ref="usuario-chofer"/>
-    <file name="usuario-extranjero.css" crc="4201555938" ref="usuario-extranjero"/>
+    <file name="index.css" crc="4109150533" ref="index"/>
+    <file name="iniciar-sesi_n.css" crc="4047439989" ref="iniciar-sesión"/>
+    <file name="master_a-p_g_-maestra.css" crc="3817865779" ref="registrarse:index:iniciar-sesión:usuario-pasajero:usuario-chofer:usuario-extranjero:home-chofer:home-pasajero:home-extranjero"/>
+    <file name="registrarse.css" crc="3878170984" ref="registrarse"/>
+    <file name="usuario-pasajero.css" crc="348797650" ref="usuario-pasajero"/>
+    <file name="usuario-chofer.css" crc="3896575865" ref="usuario-chofer"/>
+    <file name="usuario-extranjero.css" crc="3970631134" ref="usuario-extranjero"/>
+    <file name="home-chofer.css" crc="3863580287" ref="home-chofer"/>
+    <file name="home-pasajero.css" crc="4008727567" ref="home-pasajero"/>
+    <file name="home-extranjero.css" crc="4097717298" ref="home-extranjero"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="409338010" ref="index:iniciar-sesión:registrarse:usuario-pasajero:usuario-extranjero:usuario-chofer"/>
-    <file name="museutils.js" crc="4190794036" ref="index:iniciar-sesión:registrarse:usuario-pasajero:usuario-extranjero:usuario-chofer"/>
-    <file name="whatinput.js" crc="84559013" ref="index:iniciar-sesión:registrarse:usuario-pasajero:usuario-extranjero:usuario-chofer"/>
-    <file name="jquery.musemenu.js" crc="3866264083" ref="index:iniciar-sesión:registrarse:usuario-pasajero:usuario-extranjero:usuario-chofer"/>
-    <file name="jquery.watch.js" crc="349565855" ref="index:iniciar-sesión:registrarse:usuario-pasajero:usuario-extranjero:usuario-chofer"/>
-    <file name="pie.js" crc="3827607177" ref="index:iniciar-sesión:usuario-pasajero:usuario-extranjero:usuario-chofer"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:iniciar-sesión:registrarse:usuario-pasajero:usuario-extranjero:usuario-chofer"/>
-    <file name="webpro.js" crc="488283310" ref="iniciar-sesión:usuario-pasajero:usuario-extranjero:usuario-chofer"/>
-    <file name="form_check.php" crc="430210585" ref="iniciar-sesión:usuario-pasajero:usuario-extranjero:usuario-chofer"/>
-    <file name="form_throttle.php" crc="282343929" ref="iniciar-sesión:usuario-pasajero:usuario-extranjero:usuario-chofer"/>
-    <file name="form_process.php" crc="339897355" ref="iniciar-sesión:usuario-pasajero:usuario-extranjero:usuario-chofer"/>
+    <file name="jquery-1.8.3.min.js" crc="409338010" ref="index:iniciar-sesión:registrarse:usuario-pasajero:usuario-extranjero:usuario-chofer:home-pasajero:home-extranjero:home-chofer"/>
+    <file name="museutils.js" crc="4190794036" ref="index:iniciar-sesión:registrarse:usuario-pasajero:usuario-extranjero:usuario-chofer:home-pasajero:home-extranjero:home-chofer"/>
+    <file name="whatinput.js" crc="84559013" ref="index:iniciar-sesión:registrarse:usuario-pasajero:usuario-extranjero:usuario-chofer:home-pasajero:home-extranjero:home-chofer"/>
+    <file name="jquery.musemenu.js" crc="3866264083" ref="index:iniciar-sesión:registrarse:home-pasajero:home-extranjero:home-chofer"/>
+    <file name="jquery.watch.js" crc="349565855" ref="index:iniciar-sesión:registrarse:usuario-pasajero:usuario-extranjero:usuario-chofer:home-pasajero:home-extranjero:home-chofer"/>
+    <file name="pie.js" crc="3827607177" ref="index:iniciar-sesión:usuario-pasajero:usuario-extranjero:usuario-chofer:home-pasajero:home-extranjero:home-chofer"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:iniciar-sesión:registrarse:home-pasajero:home-extranjero:home-chofer"/>
+    <file name="webpro.js" crc="488283310" ref="iniciar-sesión:usuario-pasajero:usuario-extranjero:usuario-chofer:home-pasajero:home-extranjero:home-chofer"/>
+    <file name="form_check.php" crc="430210585" ref="iniciar-sesión:usuario-pasajero:usuario-extranjero:usuario-chofer:home-pasajero:home-extranjero"/>
+    <file name="form_throttle.php" crc="282343929" ref="iniciar-sesión:usuario-pasajero:usuario-extranjero:usuario-chofer:home-pasajero:home-extranjero"/>
+    <file name="form_process.php" crc="339897355" ref="iniciar-sesión:usuario-pasajero:usuario-extranjero:usuario-chofer:home-pasajero:home-extranjero"/>
     <file name="form-u784.php" crc="329325441" ref="iniciar-sesión"/>
     <file name="form-u966.php" crc="4203978479" ref="usuario-pasajero"/>
     <file name="form-u1095.php" crc="3810377979" ref="usuario-extranjero"/>
-    <file name="form-u1290.php" crc="4277192788" ref="usuario-chofer"/>
+    <file name="form-u1290.php" crc="117073167" ref="usuario-chofer"/>
+    <file name="form-u1720.php" crc="246007344" ref="home-pasajero"/>
+    <file name="musewpslideshow.js" crc="248860441" ref="home-pasajero:home-extranjero:home-chofer"/>
+    <file name="jquery.museoverlay.js" crc="3898476799" ref="home-pasajero:home-extranjero:home-chofer"/>
+    <file name="touchswipe.js" crc="4191887251" ref="home-pasajero:home-extranjero:home-chofer"/>
+    <file name="form-u1819.php" crc="302749872" ref="home-extranjero"/>
   </folder>
   <folder name="images">
-    <file name="traficbo1200sssem.jpg" crc="51353491" seo="true" ref="index"/>
     <file name="botonconductor.png" crc="4233262594" seo="true" ref="registrarse"/>
     <file name="botonpasajero.png" crc="82448152" seo="true" ref="registrarse"/>
-    <file name="bannerpublico.png" crc="4036233875" seo="true" ref="index"/>
+    <file name="bannerpublico.png" crc="3870232421" seo="true" ref="index"/>
     <file name="bannerpasajero-u201.png" crc="391074354" ref="index"/>
     <file name="bannerextranjero.png" crc="450824338" seo="true" ref="index"/>
     <file name="banner1-u845.png" crc="4107443335" ref="iniciar-sesión"/>
@@ -51,11 +58,28 @@
     <file name="u1307-17-r.png" crc="3902142336" ref="usuario-chofer"/>
     <file name="u1307-17-m.png" crc="212619170" ref="usuario-chofer"/>
     <file name="u1307-17-fs.png" crc="4228759983" ref="usuario-chofer"/>
+    <file name="traficbo1200ds.jpg" crc="3773474435" seo="true" ref="index"/>
+    <file name="xkeije comunity logo.png" crc="4211106871" seo="true" ref="index:iniciar-sesión:registrarse:usuario-pasajero:usuario-extranjero:usuario-chofer:home-pasajero:home-extranjero:home-chofer"/>
+    <file name="upds logo- - copia-u1446.png" crc="287551785" ref="index:iniciar-sesión:registrarse:usuario-pasajero:usuario-extranjero:usuario-chofer:home-pasajero:home-extranjero:home-chofer"/>
+    <file name="u1732-17.png" crc="3822237474" ref="home-pasajero"/>
+    <file name="u1732-17-r.png" crc="518346895" ref="home-pasajero"/>
+    <file name="u1732-17-m.png" crc="3986058976" ref="home-pasajero"/>
+    <file name="u1732-17-fs.png" crc="3944349647" ref="home-pasajero"/>
+    <file name="serviciobomberos.jpg" crc="134172903" seo="true" ref="home-pasajero:home-extranjero:home-chofer"/>
+    <file name="serviciopolicia.jpg" crc="198373802" seo="true" ref="home-pasajero:home-extranjero:home-chofer"/>
+    <file name="sevicioambulancia.jpg" crc="4269189065" seo="true" ref="home-pasajero:home-extranjero:home-chofer"/>
+    <file name="u1831-17.png" crc="3822237474" ref="home-extranjero"/>
+    <file name="u1831-17-r.png" crc="518346895" ref="home-extranjero"/>
+    <file name="u1831-17-m.png" crc="3986058976" ref="home-extranjero"/>
+    <file name="u1831-17-fs.png" crc="3944349647" ref="home-extranjero"/>
   </folder>
-  <file name="index.html" crc="265542785" seo="true" mt="1501201992169" redirect="true"/>
-  <file name="iniciar-sesión.html" crc="4269376498" seo="true" mt="1501201936136" redirect="true"/>
-  <file name="registrarse.html" crc="3964291514" seo="true" mt="1501203440845" redirect="true"/>
-  <file name="usuario-pasajero.html" crc="302510683" seo="true" mt="1501202639430" redirect="true"/>
-  <file name="usuario-extranjero.html" crc="3778184465" seo="true" mt="1501202778684" redirect="true"/>
-  <file name="usuario-chofer.html" crc="162742479" seo="true" mt="1501203409452" redirect="true"/>
+  <file name="index.html" crc="281148439" seo="true" mt="1501206144715" redirect="true"/>
+  <file name="iniciar-sesión.html" crc="419559978" seo="true" mt="1501206144715" redirect="true"/>
+  <file name="registrarse.html" crc="4069255059" seo="true" mt="1501206144715" redirect="true"/>
+  <file name="usuario-pasajero.html" crc="4179545069" seo="true" mt="1501212051048" redirect="true"/>
+  <file name="usuario-extranjero.html" crc="4003556825" seo="true" mt="1501212217856" redirect="true"/>
+  <file name="usuario-chofer.html" crc="512733658" seo="true" mt="1501212905607" redirect="true"/>
+  <file name="home-pasajero.html" crc="416092661" seo="true" mt="1501211269893" redirect="true"/>
+  <file name="home-extranjero.html" crc="3926249339" seo="true" mt="1501212853665" redirect="true"/>
+  <file name="home-chofer.html" crc="509212729" seo="true" mt="1501212844024" redirect="true"/>
 </manifest>
