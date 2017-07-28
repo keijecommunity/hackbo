@@ -121,8 +121,7 @@
                         oncomplete="markerAddComplete()"/>  
                 <p:commandButton value="Cancelar" onclick="return cancel()"/>  
             </f:facet>  
-        </h:panelGrid>  
-         
+        </h:panelGrid>           
         
     </h:form>  
 </p:dialog>  
@@ -133,14 +132,11 @@
     function handlePointClick(event) {  
         if(currentMarker == null) {  
             document.getElementById('lat').value = event.latLng.lat();  
-            document.getElementById('lng').value = event.latLng.lng();  
-  
+            document.getElementById('lng').value = event.latLng.lng();    
             currentMarker = new google.maps.Marker({  
-                position:new google.maps.LatLng(event.latLng.lat(), event.latLng.lng())  
-            });  
-                              
-            map.addOverlay(currentMarker);  
-  
+            position:new google.maps.LatLng(event.latLng.lat(), event.latLng.lng())  
+            });                                
+            map.addOverlay(currentMarker);    
             dlg.show();  
         }     
     }  
@@ -148,17 +144,14 @@
     function markerAddComplete() {  
         var title = document.getElementById('title');  
         currentMarker.setTitle(title.value);  
-        title.value = "";  
-  
+        title.value = "";    
         currentMarker = null;  
         dlg.hide();  
-    }  
-  
+    }    
     function cancel() {  
         dlg.hide();  
         currentMarker.setMap(null);  
-        currentMarker = null;  
-  
+        currentMarker = null;    
         return false;  
     }  
 </script>  
