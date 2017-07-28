@@ -1,7 +1,7 @@
 .version.registrarse /* version checker */
 {
-	color: #0000FF;
-	background-color: #2E11CF;
+	color: #000011;
+	background-color: #54E6D7;
 }
 
 .js body
@@ -206,10 +206,10 @@
 {
 	color: #FFFFFF;
 	min-height: 29px;
-	line-height: 29px;
 	position: relative;
 	text-align: center;
 	font-size: 24px;
+	line-height: 29px;
 	background-color: transparent;
 }
 
@@ -513,18 +513,9 @@ body
 		left: 67.97%;
 	}
 
-	#u372-4
-	{
-		z-index: 19;
-		top: -1px;
-		margin-bottom: -1px;
-		width: 14.46%;
-		margin-left: 42.19%;
-	}
-
 	#pu373-5
 	{
-		margin-top: 91px;
+		margin-top: -1px;
 		width: 100%;
 	}
 
@@ -534,7 +525,15 @@ body
 		min-height: 33px;
 		margin-right: -10000px;
 		width: 13.03%;
-		left: 11.59%;
+		left: 10.68%;
+	}
+
+	#u372-4
+	{
+		z-index: 19;
+		margin-right: -10000px;
+		width: 14.46%;
+		left: 42.19%;
 	}
 
 	#u371-5
@@ -542,7 +541,7 @@ body
 		z-index: 14;
 		margin-right: -10000px;
 		width: 31.12%;
-		left: 67.19%;
+		left: 66.8%;
 	}
 
 	#u1433
@@ -577,7 +576,7 @@ body
 	#u1433-bw
 	{
 		min-height: 95px;
-		margin-top: 26px;
+		margin-top: 146px;
 	}
 }
 

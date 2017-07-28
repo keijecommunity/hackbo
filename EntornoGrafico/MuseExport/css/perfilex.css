@@ -1,7 +1,7 @@
 .version.perfilex /* version checker */
 {
-	color: #000015;
-	background-color: #E6038C;
+	color: #0000F1;
+	background-color: #F18F04;
 }
 
 .js body
@@ -269,7 +269,6 @@
 #u9221-4,#u9222-4
 {
 	color: #FFFFFF;
-	min-height: 52px;
 	position: relative;
 	font-size: 24px;
 	line-height: 29px;
@@ -429,6 +428,7 @@ body
 	#u9221-4
 	{
 		z-index: 22;
+		min-height: 52px;
 		margin-right: -10000px;
 		width: 38.34%;
 		left: 37.09%;
@@ -451,6 +451,7 @@ body
 	#u9222-4
 	{
 		z-index: 26;
+		min-height: 52px;
 		margin-right: -10000px;
 		width: 24.09%;
 		left: 53.5%;
@@ -584,7 +585,7 @@ body
 
 	#pu9219-4
 	{
-		margin-top: 97px;
+		margin-top: 102px;
 		width: 100%;
 	}
 
@@ -592,21 +593,23 @@ body
 	{
 		z-index: 14;
 		margin-right: -10000px;
-		width: 12.11%;
-		left: 22.66%;
+		width: 19.28%;
+		left: 16.28%;
 	}
 
 	#u9221-4
 	{
 		z-index: 22;
+		min-height: 26px;
 		margin-right: -10000px;
+		margin-top: 11px;
 		width: 38.29%;
-		left: 37.11%;
+		left: 40.11%;
 	}
 
 	#pu9220-4
 	{
-		margin-top: 28px;
+		margin-top: 37px;
 		width: 100%;
 	}
 
@@ -614,16 +617,18 @@ body
 	{
 		z-index: 18;
 		margin-right: -10000px;
-		width: 27.87%;
-		left: 22.4%;
+		width: 41.28%;
+		left: 10.03%;
 	}
 
 	#u9222-4
 	{
 		z-index: 26;
+		min-height: 32px;
 		margin-right: -10000px;
+		margin-top: 10px;
 		width: 24.09%;
-		left: 53.52%;
+		left: 53.26%;
 	}
 
 	#u1433
@@ -658,7 +663,7 @@ body
 	#u1433-bw
 	{
 		min-height: 95px;
-		margin-top: 237px;
+		margin-top: 291px;
 	}
 }
 
@@ -761,6 +766,7 @@ body
 	#u9221-4
 	{
 		z-index: 18;
+		min-height: 52px;
 		width: 82.5%;
 		margin-left: 6.25%;
 	}
@@ -776,6 +782,7 @@ body
 	#u9222-4
 	{
 		z-index: 22;
+		min-height: 52px;
 		width: 95%;
 		margin-left: 6.25%;
 	}

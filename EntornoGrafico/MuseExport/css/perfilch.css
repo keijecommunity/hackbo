@@ -1,7 +1,7 @@
 .version.perfilch /* version checker */
 {
-	color: #00000C;
-	background-color: #832BC1;
+	color: #000000;
+	background-color: #858992;
 }
 
 .js body
@@ -265,9 +265,9 @@
 {
 	color: #FFFFFF;
 	min-height: 54px;
-	line-height: 36px;
 	position: relative;
 	font-size: 30px;
+	line-height: 36px;
 	background-color: transparent;
 }
 
@@ -683,32 +683,24 @@ body
 		margin-bottom: -5px;
 	}
 
-	#pu8467
-	{
-		margin-top: 108px;
-		width: 100%;
-	}
-
 	#u8467
 	{
 		z-index: 16;
-		margin-right: -10000px;
 		width: 10.03%;
-		left: 26.31%;
+		margin-left: 44.93%;
 	}
 
 	#u8477-4
 	{
 		z-index: 18;
-		margin-right: -10000px;
-		margin-top: 26px;
+		margin-top: 15px;
 		width: 39.98%;
-		left: 36.33%;
+		margin-left: 29.95%;
 	}
 
 	#pu8480-4
 	{
-		margin-top: 50px;
+		margin-top: 29px;
 		width: 100%;
 	}
 
@@ -717,16 +709,16 @@ body
 		z-index: 22;
 		min-height: 52px;
 		margin-right: -10000px;
-		width: 12.11%;
-		left: 23.44%;
+		width: 19.02%;
+		left: 16.67%;
 	}
 
 	#u8492-4
 	{
 		z-index: 38;
 		margin-right: -10000px;
-		width: 24.09%;
-		left: 38.03%;
+		width: 37.77%;
+		left: 36.72%;
 	}
 
 	#u8483-4
@@ -734,21 +726,21 @@ body
 		z-index: 26;
 		min-height: 52px;
 		margin-right: -10000px;
-		width: 27.87%;
-		left: 23.18%;
+		width: 35.03%;
+		left: 16.28%;
 	}
 
 	#u8495-4
 	{
 		z-index: 42;
 		margin-right: -10000px;
-		width: 24.09%;
-		left: 54.3%;
+		width: 37.77%;
+		left: 52.61%;
 	}
 
 	#pu8486-4
 	{
-		margin-top: 13px;
+		margin-top: 33px;
 		width: 100%;
 	}
 
@@ -756,21 +748,21 @@ body
 	{
 		z-index: 30;
 		margin-right: -10000px;
-		width: 12.11%;
-		left: 23.18%;
+		width: 15.37%;
+		left: 16.28%;
 	}
 
 	#u8498-4
 	{
 		z-index: 46;
 		margin-right: -10000px;
-		width: 24.09%;
-		left: 38.03%;
+		width: 11.33%;
+		left: 33.73%;
 	}
 
 	#pu8483-4,#pu8489-4
 	{
-		margin-top: 14px;
+		margin-top: 34px;
 		width: 100%;
 	}
 
@@ -778,27 +770,22 @@ body
 	{
 		z-index: 34;
 		margin-right: -10000px;
-		width: 14.72%;
-		left: 23.18%;
+		width: 23.18%;
+		left: 16.28%;
 	}
 
 	#u8501-4
 	{
 		z-index: 50;
 		margin-right: -10000px;
-		width: 24.09%;
-		left: 39.59%;
+		width: 37.77%;
+		left: 41.93%;
 	}
 
 	#u1433
 	{
 		min-height: 95px;
 		padding-bottom: 20px;
-	}
-
-	#u1433_align_to_page
-	{
-		margin-bottom: -50px;
 	}
 
 	#u1436
@@ -827,7 +814,7 @@ body
 	#u1433-bw
 	{
 		min-height: 95px;
-		margin-top: -50px;
+		margin-top: 68px;
 	}
 }
 

@@ -1,9 +1,4 @@
-	#pu4330:hover #u4330
-	{
-		height: 52px;
-	}
-
-	#pu4332:hover #u4332
+	#pu4330:hover #u4330,#pu4332:hover #u4332
 	{
 		width: 185px;
 		height: 52px;
@@ -158,32 +153,25 @@
 		left: -15px;
 	}
 
-	#u4330
-	{
-		height: 53px;
-	}
-
 	#u4331-4
 	{
 		z-index: 38;
 		min-height: 27px;
+		width: 84.41%;
 	}
 
 	#pu4330:hover #u4331-4
 	{
 		margin-top: 11px;
 		min-height: 27px;
+		width: 84.41%;
 		left: 7.53%;
-	}
-
-	#pu4330.PamphletThumbSelected #u4331-4
-	{
-		min-height: 27px;
 	}
 
 	#pu4330 #u4331-4
 	{
 		margin-top: 12px;
+		width: 84.41%;
 		left: 8.07%;
 	}
 
@@ -192,7 +180,7 @@
 		left: 185px;
 	}
 
-	#pu4332.PamphletThumbSelected #u4332,#u4332
+	#pu4332.PamphletThumbSelected #u4332,#u4330,#u4332
 	{
 		width: 186px;
 		height: 53px;
@@ -219,7 +207,7 @@
 		left: 9.68%;
 	}
 
-	#pu4332:hover #u4336-4
+	#pu4330.PamphletThumbSelected #u4331-4,#pu4332:hover #u4336-4
 	{
 		min-height: 27px;
 		width: 84.41%;

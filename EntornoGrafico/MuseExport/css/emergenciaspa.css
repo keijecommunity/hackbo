@@ -1,7 +1,7 @@
 .version.emergenciaspa /* version checker */
 {
-	color: #000010;
-	background-color: #34A202;
+	color: #000001;
+	background-color: #B189D6;
 }
 
 .js body
@@ -193,7 +193,6 @@
 #menuu13201
 {
 	margin-right: -10000px;
-	left: -98px;
 	border-width: 0px;
 	position: relative;
 	border-color: transparent;
@@ -392,6 +391,7 @@ body
 		z-index: 54;
 		width: 18.34%;
 		margin-left: 81.67%;
+		left: -98px;
 	}
 
 	#u13202
@@ -542,19 +542,20 @@ body
 	#menuu13201
 	{
 		z-index: 54;
-		width: 18.36%;
-		margin-left: 81.65%;
+		width: 29.04%;
+		margin-left: 70.97%;
+		left: -16px;
 	}
 
 	#u13202
 	{
-		width: 48.94%;
+		width: 49.33%;
 	}
 
 	#u13209
 	{
-		width: 48.94%;
-		left: 50.36%;
+		width: 49.78%;
+		left: 50.23%;
 	}
 
 	#u6636
@@ -695,6 +696,7 @@ body
 		z-index: 50;
 		width: 18.44%;
 		margin-left: 81.57%;
+		left: -98px;
 	}
 
 	#u13202
