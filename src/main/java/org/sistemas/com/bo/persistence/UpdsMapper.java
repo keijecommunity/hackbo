@@ -11,7 +11,15 @@ import java.util.HashMap;
 
 public interface UpdsMapper {
 	
-	String holamundo();
 	
 	
+	
+	
+	/**************************************************/
+	Coordenada getCoordenada(int id);
+	Coordenada getCoordenadaMover(Coordenada objeto);
+	List<Coordenada> getCoordenadas();	
+	void insertCoordenada(Coordenada objeto);
+	void deleteCoordenada(Coordenada objeto);
+	void updateCoordenada(Coordenada objeto);
 }
