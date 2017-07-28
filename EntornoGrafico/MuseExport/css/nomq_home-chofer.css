@@ -25,125 +25,75 @@
 		width: 100%;
 	}
 
-	#menuu2209
+	#menuu8709
 	{
 		z-index: 41;
 		width: 18.34%;
-		left: 73.5%;
+		left: 73.34%;
 	}
 
-	#u2217
+	#u8710
 	{
 		width: 49.55%;
 	}
 
-	#u2210
+	#u8717
 	{
 		width: 49.55%;
 		left: 50.46%;
 	}
 
-	#menuu4661
+	#menuu8724
 	{
 		z-index: 54;
-		left: 99px;
 		width: 16.34%;
 	}
 
-	#u4695-4
+	#u8729-4
 	{
 		width: 92.86%;
 	}
 
-	#u4693:hover #u4695-4
+	#u8726:hover #u8729-4
 	{
 		width: 92.86%;
 	}
 
-	#u4693:active #u4695-4
+	#u8726:active #u8729-4
 	{
 		width: 92.86%;
 	}
 
-	#u4693.MuseMenuActive #u4695-4
+	#u8726.MuseMenuActive #u8729-4
 	{
 		width: 92.86%;
 	}
 
-	#u4696
+	#u8727
 	{
 		z-index: 61;
 		width: 7.15%;
 		left: 92.86%;
 	}
 
-	#u4693:hover #u4696
+	#u8726:hover #u8727
 	{
 		width: 7.15%;
 	}
 
-	#u4693:active #u4696
+	#u8726:active #u8727
 	{
 		width: 7.15%;
 	}
 
-	#u4693.MuseMenuActive #u4696
+	#u8726.MuseMenuActive #u8727
 	{
 		width: 7.15%;
 	}
 
-	#u4663
+	#u8730
 	{
 		width: 61.23%;
-	}
-
-	#u4674-4
-	{
-		width: 95%;
-		left: 1.67%;
-	}
-
-	#u4673:hover #u4674-4
-	{
-		width: 95%;
-	}
-
-	#u4692-4
-	{
-		width: 95%;
-		left: 1.67%;
-	}
-
-	#u4673.MuseMenuActive #u4674-4,#u4689:hover #u4692-4
-	{
-		width: 95%;
-	}
-
-	#u4685-4
-	{
-		width: 95%;
-		left: 1.67%;
-	}
-
-	#u4689.MuseMenuActive #u4692-4,#u4682:hover #u4685-4
-	{
-		width: 95%;
-	}
-
-	#u4669-4
-	{
-		width: 95%;
-		left: 1.67%;
-	}
-
-	#u4682.MuseMenuActive #u4685-4,#u4668:hover #u4669-4
-	{
-		width: 95%;
-	}
-
-	#u4668.MuseMenuActive #u4669-4
-	{
-		width: 95%;
 	}
 
 	#pamphletu1933
