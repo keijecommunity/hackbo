@@ -1,18 +1,17 @@
 .version.index /* version checker */
 {
-	color: #00000A;
-	background-color: #81A4BA;
+	color: #00000E;
+	background-color: #901240;
 }
 
 #page
 {
 	z-index: 1;
-	min-height: 638px;
+	min-height: 700px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
 	background-color: #DD4A3A;
-	padding-bottom: 62px;
 	width: 100%;
 	max-width: 1200px;
 	margin-left: auto;
@@ -218,20 +217,20 @@
 
 #u198-3
 {
-	z-index: 24;
+	z-index: 35;
 	min-height: 34px;
 	background-color: #FFFFFF;
 }
 
 #u198-3-bw
 {
-	z-index: 24;
+	z-index: 35;
 	min-height: 34px;
 }
 
 #menuu131
 {
-	z-index: 27;
+	z-index: 38;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
@@ -448,9 +447,9 @@
 	cursor: pointer;
 }
 
-#u835
+#u1423
 {
-	z-index: 52;
+	z-index: 33;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
@@ -459,7 +458,7 @@
 
 #u251
 {
-	z-index: 54;
+	z-index: 63;
 	background-color: #FFFFFF;
 	border-radius: 43px;
 	padding-bottom: 4px;
@@ -472,7 +471,7 @@
 
 #u254-4
 {
-	z-index: 55;
+	z-index: 64;
 	min-height: 63px;
 	background-color: transparent;
 	font-size: 48px;
@@ -488,7 +487,7 @@
 
 #u201
 {
-	z-index: 46;
+	z-index: 57;
 	display: block;
 	vertical-align: top;
 	margin-top: 28px;
@@ -499,7 +498,7 @@
 
 #u241
 {
-	z-index: 50;
+	z-index: 61;
 	background-color: transparent;
 	margin-top: 15px;
 	position: relative;
@@ -509,7 +508,7 @@
 
 #u216
 {
-	z-index: 48;
+	z-index: 59;
 	background-color: transparent;
 	margin-top: 15px;
 	position: relative;
@@ -517,9 +516,55 @@
 	margin-left: 12.25%;
 }
 
-#pu897-3,#pu835,#u835_img,#u241_img,#u216_img
+#u1433
 {
-	width: 100%;
+	z-index: 24;
+	min-height: 132px;
+}
+
+#u1433_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	margin-bottom: -70px;
+}
+
+#u1436
+{
+	z-index: 25;
+	position: relative;
+	margin-right: -10000px;
+	width: 19.5%;
+	left: 1.67%;
+}
+
+#u1446
+{
+	z-index: 27;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	width: 8.09%;
+	left: 24.59%;
+}
+
+#u1456-4
+{
+	z-index: 29;
+	min-height: 53px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 40px;
+	width: 59.42%;
+	left: 36.09%;
+}
+
+#u1433-bw
+{
+	z-index: 24;
+	min-height: 132px;
+	margin-top: -70px;
 }
 
 #muse_css_mq,.html
@@ -531,5 +576,10 @@ body
 {
 	position: relative;
 	min-width: 320px;
+}
+
+#pu897-3,#pu1423,#u1423_img,#u241_img,#u216_img,#u1436_img
+{
+	width: 100%;
 }
 

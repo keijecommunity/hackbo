@@ -80,11 +80,6 @@
 	background-color: #6B6B6B;
 }
 
-#u902.MuseMenuActive
-{
-	background-color: transparent;
-}
-
 #u904-4
 {
 	border-width: 0px;
@@ -104,4 +99,34 @@
 {
 	cursor: pointer;
 }
+
+#u1433
+{
+	background-color: #303030;
+}
+
+#u1433_align_to_page
+{
+	max-width: 1200px;
+}
+
+#u902.MuseMenuActive,#u1436
+{
+	background-color: transparent;
+}
+
+#u1446
+{
+	display: block;
+	vertical-align: top;
+}
+
+#u1456-4
+{
+	background-color: transparent;
+	font-size: 18px;
+	line-height: 22px;
+	color: #FFFFFF;
+}
+
 

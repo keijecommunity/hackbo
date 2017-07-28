@@ -30,7 +30,7 @@ $form = array(
 	),
 	'fields' => array(
 		'custom_U1309' => array(
-			'order' => 1,
+			'order' => 2,
 			'type' => 'string',
 			'label' => 'Nombre',
 			'required' => true,
@@ -39,7 +39,7 @@ $form = array(
 			)
 		),
 		'Email' => array(
-			'order' => 2,
+			'order' => 4,
 			'type' => 'email',
 			'label' => 'Correo electrónico',
 			'required' => true,
@@ -49,7 +49,7 @@ $form = array(
 			)
 		),
 		'custom_U1295' => array(
-			'order' => 3,
+			'order' => 5,
 			'type' => 'string',
 			'label' => 'Empresa',
 			'required' => true,
@@ -58,7 +58,7 @@ $form = array(
 			)
 		),
 		'custom_U1299' => array(
-			'order' => 4,
+			'order' => 6,
 			'type' => 'string',
 			'label' => 'Dirección del trabajo',
 			'required' => true,
@@ -67,7 +67,7 @@ $form = array(
 			)
 		),
 		'custom_U1326' => array(
-			'order' => 5,
+			'order' => 3,
 			'type' => 'string',
 			'label' => 'Ciudad',
 			'required' => true,
@@ -76,7 +76,7 @@ $form = array(
 			)
 		),
 		'custom_U1303' => array(
-			'order' => 6,
+			'order' => 1,
 			'type' => 'string',
 			'label' => 'Región',
 			'required' => true,
