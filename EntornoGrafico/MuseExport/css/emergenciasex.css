@@ -1,7 +1,7 @@
 .version.emergenciasex /* version checker */
 {
-	color: #00001C;
-	background-color: #FE6C30;
+	color: #0000E1;
+	background-color: #F4D0CB;
 }
 
 .js body
@@ -190,6 +190,14 @@
 	border-style: solid;
 }
 
+#u9563.MuseMenuActive
+{
+	min-height: 0px;
+	width: 100%;
+	background-color: #666666;
+	margin: 0px -10000px 0px 0%;
+}
+
 #u9559,#u9567,#u9574,#u9560,#u9581
 {
 	width: 100%;
@@ -214,14 +222,6 @@
 	min-height: 0px;
 	width: 100%;
 	background-color: #AAAAAA;
-	margin: 0px -10000px 0px 0%;
-}
-
-#u9563.MuseMenuActive,#u9584.MuseMenuActive
-{
-	min-height: 0px;
-	width: 100%;
-	background-color: #666666;
 	margin: 0px -10000px 0px 0%;
 }
 

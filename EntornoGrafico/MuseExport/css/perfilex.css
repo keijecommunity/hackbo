@@ -1,7 +1,7 @@
 .version.perfilex /* version checker */
 {
-	color: #0000E5;
-	background-color: #1BCE38;
+	color: #00001C;
+	background-color: #B5F087;
 }
 
 .js body
@@ -190,6 +190,14 @@
 	border-style: solid;
 }
 
+#u9271.MuseMenuActive
+{
+	min-height: 0px;
+	width: 100%;
+	background-color: #666666;
+	margin: 0px -10000px 0px 0%;
+}
+
 #u9253,#u9261,#u9268,#u9254,#u9275
 {
 	width: 100%;
@@ -214,14 +222,6 @@
 	min-height: 0px;
 	width: 100%;
 	background-color: #AAAAAA;
-	margin: 0px -10000px 0px 0%;
-}
-
-#u9271.MuseMenuActive,#u9278.MuseMenuActive
-{
-	min-height: 0px;
-	width: 100%;
-	background-color: #666666;
 	margin: 0px -10000px 0px 0%;
 }
 

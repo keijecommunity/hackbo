@@ -19,73 +19,73 @@
 		width: 100%;
 	}
 
-	#menuu8504
+	#menuu12140
 	{
 		z-index: 54;
 		width: 18.34%;
 		left: 66.92%;
 	}
 
-	#u8505
+	#u12141
 	{
 		width: 49.55%;
 	}
 
-	#u8512
+	#u12148
 	{
 		width: 49.55%;
 		left: 50.46%;
 	}
 
-	#menuu8519
+	#menuu12155
 	{
 		z-index: 67;
 		width: 16.34%;
 	}
 
-	#u8523-4
+	#u12159-4
 	{
 		width: 92.86%;
 	}
 
-	#u8521:hover #u8523-4
+	#u12157:hover #u12159-4
 	{
 		width: 92.86%;
 	}
 
-	#u8521:active #u8523-4
+	#u12157:active #u12159-4
 	{
 		width: 92.86%;
 	}
 
-	#u8521.MuseMenuActive #u8523-4
+	#u12157.MuseMenuActive #u12159-4
 	{
 		width: 92.86%;
 	}
 
-	#u8522
+	#u12160
 	{
 		z-index: 74;
 		width: 7.15%;
 		left: 92.86%;
 	}
 
-	#u8521:hover #u8522
+	#u12157:hover #u12160
 	{
 		width: 7.15%;
 	}
 
-	#u8521:active #u8522
+	#u12157:active #u12160
 	{
 		width: 7.15%;
 	}
 
-	#u8521.MuseMenuActive #u8522
+	#u12157.MuseMenuActive #u12160
 	{
 		width: 7.15%;
 	}
 
-	#u8525
+	#u12161
 	{
 		width: 61.23%;
 	}

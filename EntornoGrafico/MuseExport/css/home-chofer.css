@@ -1,7 +1,7 @@
 .version.home_chofer /* version checker */
 {
-	color: #0000E7;
-	background-color: #95D49D;
+	color: #000006;
+	background-color: #5AFD4B;
 }
 
 .js body
@@ -295,14 +295,6 @@
 	min-height: 0px;
 	width: 100%;
 	background-color: #AAAAAA;
-	margin: 0px -10000px 0px 0%;
-}
-
-#u8754.MuseMenuActive
-{
-	min-height: 0px;
-	width: 100%;
-	background-color: #666666;
 	margin: 0px -10000px 0px 0%;
 }
 
