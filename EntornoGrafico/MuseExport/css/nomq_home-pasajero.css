@@ -35,9 +35,30 @@
 	#menuu1513
 	{
 		z-index: 15;
-		margin-top: 1px;
 		left: 99px;
 		width: 16.34%;
+	}
+
+	#u1534
+	{
+		z-index: 18;
+		width: 7.15%;
+		left: 92.86%;
+	}
+
+	#u1531:hover #u1534
+	{
+		width: 7.15%;
+	}
+
+	#u1531:active #u1534
+	{
+		width: 7.15%;
+	}
+
+	#u1531.MuseMenuActive #u1534
+	{
+		width: 7.15%;
 	}
 
 	#u1533-4
@@ -58,28 +79,6 @@
 	#u1531.MuseMenuActive #u1533-4
 	{
 		width: 92.86%;
-	}
-
-	#u1534
-	{
-		z-index: 22;
-		width: 7.15%;
-		left: 92.86%;
-	}
-
-	#u1531:hover #u1534
-	{
-		width: 7.15%;
-	}
-
-	#u1531:active #u1534
-	{
-		width: 7.15%;
-	}
-
-	#u1531.MuseMenuActive #u1534
-	{
-		width: 7.15%;
 	}
 
 	#u1529

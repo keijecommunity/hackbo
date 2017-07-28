@@ -121,6 +121,30 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://www.stoptrafic.org/images/choferes.jpg</loc>
+    <lastmod>2017-07-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.stoptrafic.org/images/chorfer.jpg</loc>
+    <lastmod>2017-07-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.stoptrafic.org/images/pasajeroturista.jpg</loc>
+    <lastmod>2017-07-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.stoptrafic.org/images/turismo.jpg</loc>
+    <lastmod>2017-07-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://www.stoptrafic.org/index.html</loc>
     <lastmod>2017-07-28</lastmod>
     <changefreq>weekly</changefreq>
@@ -170,6 +194,24 @@
   </url>
   <url>
     <loc>http://www.stoptrafic.org/home-chofer.html</loc>
+    <lastmod>2017-07-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.stoptrafic.org/patrocinos-choferes.html</loc>
+    <lastmod>2017-07-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.stoptrafic.org/patrocinios-extranjero.html</loc>
+    <lastmod>2017-07-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.stoptrafic.org/patrocinios-pasajero.html</loc>
     <lastmod>2017-07-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
