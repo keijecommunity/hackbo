@@ -20,6 +20,77 @@
 		width: 100%;
 	}
 
+	#menuu8913
+	{
+		z-index: 22;
+		width: 18.34%;
+		left: 66.92%;
+	}
+
+	#u8914
+	{
+		width: 49.55%;
+	}
+
+	#u8921
+	{
+		width: 49.55%;
+		left: 50.46%;
+	}
+
+	#menuu8928
+	{
+		z-index: 35;
+		width: 16.34%;
+	}
+
+	#u8933-4
+	{
+		width: 92.86%;
+	}
+
+	#u8930:hover #u8933-4
+	{
+		width: 92.86%;
+	}
+
+	#u8930:active #u8933-4
+	{
+		width: 92.86%;
+	}
+
+	#u8930.MuseMenuActive #u8933-4
+	{
+		width: 92.86%;
+	}
+
+	#u8931
+	{
+		z-index: 42;
+		width: 7.15%;
+		left: 92.86%;
+	}
+
+	#u8930:hover #u8931
+	{
+		width: 7.15%;
+	}
+
+	#u8930:active #u8931
+	{
+		width: 7.15%;
+	}
+
+	#u8930.MuseMenuActive #u8931
+	{
+		width: 7.15%;
+	}
+
+	#u8934
+	{
+		width: 61.23%;
+	}
+
 	#u5552
 	{
 		z-index: 14;

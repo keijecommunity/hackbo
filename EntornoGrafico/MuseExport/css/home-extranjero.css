@@ -1,7 +1,7 @@
 .version.home_extranjero /* version checker */
 {
-	color: #0000F7;
-	background-color: #28C6E8;
+	color: #00000A;
+	background-color: #384B34;
 }
 
 .js body.initialized
@@ -209,7 +209,7 @@
 	margin: 0px -10000px 0px 0%;
 }
 
-#u6217.MuseMenuActive,#u6231.MuseMenuActive
+#u6231.MuseMenuActive
 {
 	min-height: 0px;
 	width: 100%;

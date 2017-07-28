@@ -1,7 +1,7 @@
 .version.home_pasajero /* version checker */
 {
 	color: #0000F2;
-	background-color: #D2C839;
+	background-color: #104C5E;
 }
 
 .js body.initialized
@@ -117,7 +117,7 @@
 	margin: 0px -10000px 0px 0%;
 }
 
-#u2919.MuseMenuActive,#u2982.MuseMenuActive
+#u2982.MuseMenuActive
 {
 	min-height: 0px;
 	width: 100%;
@@ -805,7 +805,7 @@ body
 	#menuu1513
 	{
 		z-index: 15;
-		left: 99px;
+		left: 20px;
 		width: 16.34%;
 	}
 
@@ -1349,7 +1349,7 @@ body
 	#menuu1513
 	{
 		z-index: 15;
-		left: 99px;
+		left: 20px;
 		width: 16.28%;
 	}
 
