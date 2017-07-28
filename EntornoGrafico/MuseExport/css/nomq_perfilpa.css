@@ -78,6 +78,7 @@
 		z-index: 64;
 		width: 18.34%;
 		margin-left: 81.67%;
+		left: -98px;
 	}
 
 	#u12997
@@ -94,29 +95,31 @@
 	#u9690-4
 	{
 		z-index: 14;
+		margin-top: 25px;
 		width: 12.09%;
-		left: 22.67%;
+		margin-left: 18.09%;
 	}
 
 	#u9692-4
 	{
 		z-index: 22;
 		width: 38.34%;
-		left: 37.09%;
+		margin-left: 20.17%;
 	}
 
 	#u9691-4
 	{
 		z-index: 18;
+		margin-top: 69px;
 		width: 27.84%;
-		left: 22.42%;
+		margin-left: 18.09%;
 	}
 
 	#u9693-4
 	{
 		z-index: 26;
 		width: 24.09%;
-		left: 53.5%;
+		margin-left: 20.17%;
 	}
 
 	#u1433
@@ -151,6 +154,6 @@
 	#u1433-bw
 	{
 		min-height: 132px;
-		margin-top: 296px;
+		margin-top: 229px;
 	}
 

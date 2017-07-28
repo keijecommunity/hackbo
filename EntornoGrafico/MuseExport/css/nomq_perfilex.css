@@ -91,9 +91,16 @@
 		width: 61.23%;
 	}
 
+	#pu9219-4
+	{
+		margin-top: 97px;
+		width: 100%;
+	}
+
 	#u9219-4
 	{
 		z-index: 14;
+		margin-right: -10000px;
 		width: 12.09%;
 		left: 22.67%;
 	}
@@ -101,13 +108,22 @@
 	#u9221-4
 	{
 		z-index: 22;
+		min-height: 52px;
+		margin-right: -10000px;
 		width: 38.34%;
 		left: 37.09%;
+	}
+
+	#pu9220-4
+	{
+		margin-top: 28px;
+		width: 100%;
 	}
 
 	#u9220-4
 	{
 		z-index: 18;
+		margin-right: -10000px;
 		width: 27.84%;
 		left: 22.42%;
 	}
@@ -115,6 +131,8 @@
 	#u9222-4
 	{
 		z-index: 26;
+		min-height: 52px;
+		margin-right: -10000px;
 		width: 24.09%;
 		left: 53.5%;
 	}

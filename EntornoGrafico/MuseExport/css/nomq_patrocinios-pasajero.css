@@ -78,6 +78,7 @@
 		z-index: 56;
 		width: 18.34%;
 		margin-left: 81.67%;
+		left: -98px;
 	}
 
 	#u12792
@@ -94,11 +95,13 @@
 	#u5545
 	{
 		z-index: 14;
+		margin-top: 17px;
 	}
 
 	#u5774
 	{
 		z-index: 16;
+		margin-top: 17px;
 	}
 
 	#u5779
@@ -110,11 +113,7 @@
 	#u5791
 	{
 		z-index: 20;
-	}
-
-	#u5545_img,#u5774_img,#u5779_img,#u5791_img
-	{
-		width: 100%;
+		margin-top: 18px;
 	}
 
 	#u1433
