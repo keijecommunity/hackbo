@@ -1,7 +1,7 @@
 .version.home_pasajero /* version checker */
 {
-	color: #0000F2;
-	background-color: #D2C839;
+	color: #0000FE;
+	background-color: #B216A6;
 }
 
 .js body.initialized
@@ -114,14 +114,6 @@
 	min-height: 0px;
 	width: 100%;
 	background-color: #AAAAAA;
-	margin: 0px -10000px 0px 0%;
-}
-
-#u2919.MuseMenuActive,#u2982.MuseMenuActive
-{
-	min-height: 0px;
-	width: 100%;
-	background-color: #666666;
 	margin: 0px -10000px 0px 0%;
 }
 
@@ -805,7 +797,7 @@ body
 	#menuu1513
 	{
 		z-index: 15;
-		left: 99px;
+		left: 20px;
 		width: 16.34%;
 	}
 
@@ -1349,7 +1341,7 @@ body
 	#menuu1513
 	{
 		z-index: 15;
-		left: 99px;
+		left: 20px;
 		width: 16.28%;
 	}
 

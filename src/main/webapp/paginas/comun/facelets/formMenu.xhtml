@@ -37,8 +37,15 @@
          		 <p:separator />
         
         </p:submenu>
+        
+         <p:submenu  label="Areas Inaccesibles" icon="ui-icon-pencil">         	
+         	<p:menuitem value="Ver Areas Inaccesib." actionListener="#{mapBeanP.mover}" icon="ui-icon-wrench" disabled="false"  />
+         		<p:menuitem value="Reg. Area Inaccesib." url="../../bancos/facelets/faceletsPoligono.xhtml" icon="ui-icon-pencil" disabled="false" />
+        	 <p:separator />
+        	 <p:menuitem value="Alertas" actionListener="#{rutaBean.buscar}" icon="ui-icon-pencil" disabled="false" />
+        </p:submenu>
        
-     	<p:menuitem  style="margin-left:750px;" value="Salir" url="../../seguridad/faceletsLogin.xhtml" icon="ui-icon-close" />
+     	<p:menuitem  style="margin-left:250px;" value="Salir" url="../../seguridad/faceletsLogin.xhtml" icon="ui-icon-close" />
 		
        
        

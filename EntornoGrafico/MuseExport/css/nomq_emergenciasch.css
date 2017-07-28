@@ -20,73 +20,73 @@
 		width: 100%;
 	}
 
-	#menuu7672
+	#menuu12345
 	{
 		z-index: 20;
 		width: 18.34%;
-		left: 73.5%;
+		left: 66.92%;
 	}
 
-	#u7673
+	#u12346
 	{
 		width: 49.55%;
 	}
 
-	#u7680
+	#u12353
 	{
 		width: 49.55%;
 		left: 50.46%;
 	}
 
-	#menuu7733
+	#menuu12360
 	{
 		z-index: 33;
 		width: 16.34%;
 	}
 
-	#u7738-4
+	#u12364-4
 	{
 		width: 92.86%;
 	}
 
-	#u7735:hover #u7738-4
+	#u12362:hover #u12364-4
 	{
 		width: 92.86%;
 	}
 
-	#u7735:active #u7738-4
+	#u12362:active #u12364-4
 	{
 		width: 92.86%;
 	}
 
-	#u7735.MuseMenuActive #u7738-4
+	#u12362.MuseMenuActive #u12364-4
 	{
 		width: 92.86%;
 	}
 
-	#u7737
+	#u12365
 	{
 		z-index: 40;
 		width: 7.15%;
 		left: 92.86%;
 	}
 
-	#u7735:hover #u7737
+	#u12362:hover #u12365
 	{
 		width: 7.15%;
 	}
 
-	#u7735:active #u7737
+	#u12362:active #u12365
 	{
 		width: 7.15%;
 	}
 
-	#u7735.MuseMenuActive #u7737
+	#u12362.MuseMenuActive #u12365
 	{
 		width: 7.15%;
 	}
 
-	#u7739
+	#u12366
 	{
 		width: 61.23%;
 	}

@@ -1,7 +1,7 @@
 .version.emergenciaspa /* version checker */
 {
-	color: #0000E9;
-	background-color: #ABDCB8;
+	color: #000011;
+	background-color: #74419E;
 }
 
 .js body
@@ -32,73 +32,17 @@
 	min-height: 34px;
 }
 
-#menuu6431
-{
-	margin-right: -10000px;
-	border-width: 0px;
-	margin-top: 3px;
-	position: relative;
-	border-color: transparent;
-	background-color: transparent;
-}
-
-#u6439,#u6432
-{
-	margin-right: -10000px;
-	min-height: 34px;
-	background-color: transparent;
-	position: relative;
-}
-
-#u6442,#u6435
-{
-	padding-bottom: 17px;
-	width: 100%;
-	background-color: transparent;
-	position: relative;
-}
-
-#u6445-4,#u6437-4
-{
-	margin-right: -10000px;
-	color: #DD4A39;
-	min-height: 17px;
-	border-width: 0px;
-	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
-	position: relative;
-	text-align: center;
-	top: 8px;
-	border-color: transparent;
-	width: 100%;
-	background-color: transparent;
-}
-
-#u6442:hover #u6445-4,#u6442:active #u6445-4,#u6442.MuseMenuActive #u6445-4,#u6435:hover #u6437-4,#u6435:active #u6437-4,#u6435.MuseMenuActive #u6437-4
-{
-	min-height: 17px;
-	padding-top: 0px;
-	padding-bottom: 0px;
-	width: 100%;
-	margin: 0px -10000px 0px 0%;
-}
-
-.MenuItem
-{
-	cursor: pointer;
-}
-
-#menuu6446
+#menuu13165
 {
 	margin-right: -10000px;
 	left: 20px;
 	border-width: 0px;
-	margin-top: 3px;
 	position: relative;
 	border-color: transparent;
 	background-color: transparent;
 }
 
-#u6447
+#u13166
 {
 	margin-right: -10000px;
 	min-height: 33px;
@@ -107,7 +51,7 @@
 	position: relative;
 }
 
-#u6478
+#u13167
 {
 	padding-bottom: 16px;
 	width: 100%;
@@ -115,23 +59,25 @@
 	position: relative;
 }
 
-#u6442:active,#u6435:active,#u6478:active
+#u13169
 {
-	min-height: 0px;
-	width: 100%;
-	background-color: #6B6B6B;
-	margin: 0px 0px 0px 0%;
+	margin-right: -10000px;
+	height: 14px;
+	position: relative;
+	top: 9px;
+	background: transparent url("../images/arrowmenudown.png") no-repeat center center;
 }
 
-#u6442:hover,#u6435:hover,#u6478:hover,#u6478.MuseMenuActive
+#u13167:hover #u13169,#u13167:active #u13169,#u13167.MuseMenuActive #u13169
 {
+	height: 14px;
+	background-repeat: no-repeat;
+	background-position: center center;
 	min-height: 0px;
-	width: 100%;
-	background-color: #999999;
-	margin: 0px 0px 0px 0%;
+	margin: 0px -10000px 0px 0%;
 }
 
-#u6480-4
+#u13170-4
 {
 	margin-right: -10000px;
 	color: #DD4A39;
@@ -145,7 +91,7 @@
 	background-color: transparent;
 }
 
-#u6478:hover #u6480-4,#u6478:active #u6480-4,#u6478.MuseMenuActive #u6480-4
+#u13167:hover #u13170-4,#u13167:active #u13170-4,#u13167.MuseMenuActive #u13170-4
 {
 	min-height: 17px;
 	padding-top: 0px;
@@ -153,31 +99,13 @@
 	margin: 0px -10000px 0px 0%;
 }
 
-#u6479
-{
-	margin-right: -10000px;
-	height: 14px;
-	position: relative;
-	top: 9px;
-	background: transparent url("../images/arrowmenudown.png") no-repeat center center;
-}
-
-#u6478:hover #u6479,#u6478:active #u6479,#u6478.MuseMenuActive #u6479
-{
-	height: 14px;
-	background-repeat: no-repeat;
-	background-position: center center;
-	min-height: 0px;
-	margin: 0px -10000px 0px 0%;
-}
-
-#u6448
+#u13171
 {
 	top: 33px;
 	background-color: transparent;
 }
 
-#u6467
+#u13195
 {
 	margin-right: -10000px;
 	left: 0%;
@@ -191,14 +119,22 @@
 	border-style: solid;
 }
 
-#u6449,#u6450,#u6457,#u6464,#u6471
+#u13195.MuseMenuActive
+{
+	min-height: 0px;
+	width: 100%;
+	background-color: #666666;
+	margin: 0px -10000px 0px 0%;
+}
+
+#u13172,#u13187,#u13180,#u13194,#u13173
 {
 	width: 100%;
 	background-color: transparent;
 	position: relative;
 }
 
-#u6451,#u6458,#u6472
+#u13190,#u13183,#u13174
 {
 	margin-right: -10000px;
 	border-width: 1px;
@@ -210,7 +146,7 @@
 	border-style: solid;
 }
 
-#u6451:hover,#u6458:hover,#u6472:hover
+#u13190:hover,#u13183:hover,#u13174:hover
 {
 	min-height: 0px;
 	width: 100%;
@@ -218,15 +154,7 @@
 	margin: 0px -10000px 0px 0%;
 }
 
-#u6458.MuseMenuActive,#u6467.MuseMenuActive,#u6472.MuseMenuActive
-{
-	min-height: 0px;
-	width: 100%;
-	background-color: #666666;
-	margin: 0px -10000px 0px 0%;
-}
-
-#u6454-4,#u6461-4,#u6469-4,#u6474-4
+#u13192-4,#u13185-4,#u13196-4,#u13177-4
 {
 	margin-right: -10000px;
 	left: 1.67%;
@@ -238,7 +166,7 @@
 	background-color: transparent;
 }
 
-#u6451:hover #u6454-4,#u6451.MuseMenuActive #u6454-4,#u6458:hover #u6461-4,#u6458.MuseMenuActive #u6461-4,#u6467:hover #u6469-4,#u6467.MuseMenuActive #u6469-4,#u6472:hover #u6474-4,#u6472.MuseMenuActive #u6474-4
+#u13190:hover #u13192-4,#u13190.MuseMenuActive #u13192-4,#u13183:hover #u13185-4,#u13183.MuseMenuActive #u13185-4,#u13195:hover #u13196-4,#u13195.MuseMenuActive #u13196-4,#u13174:hover #u13177-4,#u13174.MuseMenuActive #u13177-4
 {
 	min-height: 13px;
 	padding-top: 4px;
@@ -247,7 +175,7 @@
 	margin: 0px -10000px 0px 0%;
 }
 
-#u6454-3,#u6461-3,#u6469-3,#u6474-3
+#u13192-3,#u13185-3,#u13196-3,#u13177-3
 {
 	margin-right: 2px;
 	color: #DD4A3A;
@@ -257,10 +185,81 @@
 	line-height: 13px;
 }
 
+.MenuItem
+{
+	cursor: pointer;
+}
+
+#menuu13201
+{
+	margin-right: -10000px;
+	left: -98px;
+	border-width: 0px;
+	position: relative;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u13202,#u13209
+{
+	margin-right: -10000px;
+	min-height: 34px;
+	background-color: transparent;
+	position: relative;
+}
+
+#u13205,#u13212
+{
+	padding-bottom: 17px;
+	width: 100%;
+	background-color: transparent;
+	position: relative;
+}
+
+#u13167:hover,#u13167.MuseMenuActive,#u13205:hover,#u13212:hover
+{
+	min-height: 0px;
+	width: 100%;
+	background-color: #999999;
+	margin: 0px 0px 0px 0%;
+}
+
+#u13167:active,#u13205:active,#u13212:active
+{
+	min-height: 0px;
+	width: 100%;
+	background-color: #6B6B6B;
+	margin: 0px 0px 0px 0%;
+}
+
+#u13207-4,#u13213-4
+{
+	margin-right: -10000px;
+	color: #DD4A39;
+	min-height: 17px;
+	border-width: 0px;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+	position: relative;
+	text-align: center;
+	top: 8px;
+	border-color: transparent;
+	width: 100%;
+	background-color: transparent;
+}
+
+#u13205:hover #u13207-4,#u13205:active #u13207-4,#u13205.MuseMenuActive #u13207-4,#u13212:hover #u13213-4,#u13212:active #u13213-4,#u13212.MuseMenuActive #u13213-4
+{
+	min-height: 17px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	width: 100%;
+	margin: 0px -10000px 0px 0%;
+}
+
 #pu6636
 {
 	width: 100%;
-	margin-top: 15px;
+	margin-top: 18px;
 }
 
 #u6636,#u6641,#u6646
@@ -335,87 +334,87 @@ body
 		width: 100%;
 	}
 
-	#menuu6431
+	#menuu13165
 	{
-		z-index: 14;
-		width: 18.34%;
-		left: 73.5%;
+		z-index: 20;
+		width: 16.34%;
 	}
 
-	#u6439
+	#u13169
+	{
+		z-index: 23;
+		width: 7.15%;
+		left: 92.86%;
+	}
+
+	#u13167:hover #u13169
+	{
+		width: 7.15%;
+	}
+
+	#u13167:active #u13169
+	{
+		width: 7.15%;
+	}
+
+	#u13167.MuseMenuActive #u13169
+	{
+		width: 7.15%;
+	}
+
+	#u13170-4
+	{
+		width: 92.86%;
+	}
+
+	#u13167:hover #u13170-4
+	{
+		width: 92.86%;
+	}
+
+	#u13167:active #u13170-4
+	{
+		width: 92.86%;
+	}
+
+	#u13167.MuseMenuActive #u13170-4
+	{
+		width: 92.86%;
+	}
+
+	#u13171
+	{
+		width: 61.23%;
+	}
+
+	#menuu13201
+	{
+		z-index: 54;
+		width: 18.34%;
+		margin-left: 81.67%;
+	}
+
+	#u13202
 	{
 		width: 49.55%;
 	}
 
-	#u6432
+	#u13209
 	{
 		width: 49.55%;
 		left: 50.46%;
 	}
 
-	#menuu6446
-	{
-		z-index: 27;
-		width: 16.34%;
-	}
-
-	#u6480-4
-	{
-		width: 92.86%;
-	}
-
-	#u6478:hover #u6480-4
-	{
-		width: 92.86%;
-	}
-
-	#u6478:active #u6480-4
-	{
-		width: 92.86%;
-	}
-
-	#u6478.MuseMenuActive #u6480-4
-	{
-		width: 92.86%;
-	}
-
-	#u6479
-	{
-		z-index: 34;
-		width: 7.15%;
-		left: 92.86%;
-	}
-
-	#u6478:hover #u6479
-	{
-		width: 7.15%;
-	}
-
-	#u6478:active #u6479
-	{
-		width: 7.15%;
-	}
-
-	#u6478.MuseMenuActive #u6479
-	{
-		width: 7.15%;
-	}
-
-	#u6448
-	{
-		width: 61.23%;
-	}
-
 	#u6636
 	{
-		z-index: 61;
+		z-index: 14;
 		width: 22.92%;
 		left: 13.92%;
 	}
 
 	#u6641
 	{
-		z-index: 63;
+		z-index: 16;
 		width: 22.92%;
 		left: 38.5%;
 	}
@@ -427,7 +426,7 @@ body
 
 	#u6646
 	{
-		z-index: 65;
+		z-index: 18;
 		width: 22.92%;
 		left: 63.09%;
 	}
@@ -492,94 +491,94 @@ body
 		max-width: 768px;
 	}
 
-	#menuu6431
+	#menuu13165
 	{
-		z-index: 14;
-		width: 18.36%;
-		left: 73.44%;
+		z-index: 20;
+		width: 16.28%;
 	}
 
-	#u6439
+	#u13169
+	{
+		z-index: 23;
+		width: 11.21%;
+	}
+
+	#u13167:hover #u13169
+	{
+		width: 11.21%;
+	}
+
+	#u13167:active #u13169
+	{
+		width: 11.21%;
+	}
+
+	#u13167.MuseMenuActive #u13169
+	{
+		width: 11.21%;
+	}
+
+	#u13170-4
+	{
+		width: 88.8%;
+		left: 11.21%;
+	}
+
+	#u13167:hover #u13170-4
+	{
+		width: 88.8%;
+	}
+
+	#u13167:active #u13170-4
+	{
+		width: 88.8%;
+	}
+
+	#u13167.MuseMenuActive #u13170-4
+	{
+		width: 88.8%;
+	}
+
+	#u13171
+	{
+		width: 96%;
+	}
+
+	#menuu13201
+	{
+		z-index: 54;
+		width: 18.36%;
+		margin-left: 81.65%;
+	}
+
+	#u13202
 	{
 		width: 48.94%;
 	}
 
-	#u6432
+	#u13209
 	{
 		width: 48.94%;
 		left: 50.36%;
 	}
 
-	#menuu6446
-	{
-		z-index: 27;
-		width: 16.28%;
-	}
-
-	#u6480-4
-	{
-		width: 88.8%;
-	}
-
-	#u6478:hover #u6480-4
-	{
-		width: 88.8%;
-	}
-
-	#u6478:active #u6480-4
-	{
-		width: 88.8%;
-	}
-
-	#u6478.MuseMenuActive #u6480-4
-	{
-		width: 88.8%;
-	}
-
-	#u6479
-	{
-		z-index: 34;
-		width: 11.21%;
-		left: 88.8%;
-	}
-
-	#u6478:hover #u6479
-	{
-		width: 11.21%;
-	}
-
-	#u6478:active #u6479
-	{
-		width: 11.21%;
-	}
-
-	#u6478.MuseMenuActive #u6479
-	{
-		width: 11.21%;
-	}
-
-	#u6448
-	{
-		width: 96%;
-	}
-
 	#u6636
 	{
-		z-index: 61;
+		z-index: 14;
 		width: 22.92%;
 		left: 13.94%;
 	}
 
 	#u6641
 	{
-		z-index: 63;
+		z-index: 16;
 		width: 22.92%;
 		left: 38.55%;
 	}
 
 	#u6646
 	{
-		z-index: 65;
+		z-index: 18;
 		width: 22.92%;
 		left: 63.16%;
 	}
@@ -643,94 +642,94 @@ body
 		max-width: 320px;
 	}
 
-	#menuu6431
+	#menuu13165
 	{
-		z-index: 10;
-		width: 18.44%;
-		left: 73.44%;
+		z-index: 16;
+		width: 16.25%;
 	}
 
-	#u6439
+	#u13169
+	{
+		z-index: 19;
+		width: 26.93%;
+	}
+
+	#u13167:hover #u13169
+	{
+		width: 26.93%;
+	}
+
+	#u13167:active #u13169
+	{
+		width: 26.93%;
+	}
+
+	#u13167.MuseMenuActive #u13169
+	{
+		width: 26.93%;
+	}
+
+	#u13170-4
+	{
+		width: 73.08%;
+		left: 26.93%;
+	}
+
+	#u13167:hover #u13170-4
+	{
+		width: 73.08%;
+	}
+
+	#u13167:active #u13170-4
+	{
+		width: 73.08%;
+	}
+
+	#u13167.MuseMenuActive #u13170-4
+	{
+		width: 73.08%;
+	}
+
+	#u13171
+	{
+		width: 230.77%;
+	}
+
+	#menuu13201
+	{
+		z-index: 50;
+		width: 18.44%;
+		margin-left: 81.57%;
+	}
+
+	#u13202
 	{
 		width: 47.46%;
 	}
 
-	#u6432
+	#u13209
 	{
 		width: 47.46%;
 		left: 50.85%;
 	}
 
-	#menuu6446
-	{
-		z-index: 23;
-		width: 16.25%;
-	}
-
-	#u6480-4
-	{
-		width: 73.08%;
-	}
-
-	#u6478:hover #u6480-4
-	{
-		width: 73.08%;
-	}
-
-	#u6478:active #u6480-4
-	{
-		width: 73.08%;
-	}
-
-	#u6478.MuseMenuActive #u6480-4
-	{
-		width: 73.08%;
-	}
-
-	#u6479
-	{
-		z-index: 30;
-		width: 26.93%;
-		left: 73.08%;
-	}
-
-	#u6478:hover #u6479
-	{
-		width: 26.93%;
-	}
-
-	#u6478:active #u6479
-	{
-		width: 26.93%;
-	}
-
-	#u6478.MuseMenuActive #u6479
-	{
-		width: 26.93%;
-	}
-
-	#u6448
-	{
-		width: 230.77%;
-	}
-
 	#u6636
 	{
-		z-index: 57;
+		z-index: 10;
 		width: 22.82%;
 		left: 14.07%;
 	}
 
 	#u6641
 	{
-		z-index: 59;
+		z-index: 12;
 		width: 22.82%;
 		left: 38.44%;
 	}
 
 	#u6646
 	{
-		z-index: 61;
+		z-index: 14;
 		width: 22.82%;
 		left: 63.13%;
 	}

@@ -14,6 +14,111 @@
 		max-width: 1200px;
 	}
 
+	#page_position_content
+	{
+		margin-bottom: -37px;
+		width: 100%;
+	}
+
+	#menuu12960
+	{
+		z-index: 30;
+		width: 16.34%;
+	}
+
+	#u12964
+	{
+		z-index: 33;
+		width: 7.15%;
+		left: 92.86%;
+	}
+
+	#u12962:hover #u12964
+	{
+		width: 7.15%;
+	}
+
+	#u12962:active #u12964
+	{
+		width: 7.15%;
+	}
+
+	#u12962.MuseMenuActive #u12964
+	{
+		width: 7.15%;
+	}
+
+	#u12965-4
+	{
+		width: 92.86%;
+	}
+
+	#u12962:hover #u12965-4
+	{
+		width: 92.86%;
+	}
+
+	#u12962:active #u12965-4
+	{
+		width: 92.86%;
+	}
+
+	#u12962.MuseMenuActive #u12965-4
+	{
+		width: 92.86%;
+	}
+
+	#u12966
+	{
+		width: 61.23%;
+	}
+
+	#menuu12996
+	{
+		z-index: 64;
+		width: 18.34%;
+		margin-left: 81.67%;
+	}
+
+	#u12997
+	{
+		width: 49.55%;
+	}
+
+	#u13004
+	{
+		width: 49.55%;
+		left: 50.46%;
+	}
+
+	#u9690-4
+	{
+		z-index: 14;
+		width: 12.09%;
+		left: 22.67%;
+	}
+
+	#u9692-4
+	{
+		z-index: 22;
+		width: 38.34%;
+		left: 37.09%;
+	}
+
+	#u9691-4
+	{
+		z-index: 18;
+		width: 27.84%;
+		left: 22.42%;
+	}
+
+	#u9693-4
+	{
+		z-index: 26;
+		width: 24.09%;
+		left: 53.5%;
+	}
+
 	#u1433
 	{
 		min-height: 132px;
@@ -46,12 +151,6 @@
 	#u1433-bw
 	{
 		min-height: 132px;
-		margin-bottom: -37px;
-	}
-
-	.verticalspacer
-	{
-		margin-bottom: -70px;
-		min-height: 604px;
+		margin-top: 296px;
 	}
 
