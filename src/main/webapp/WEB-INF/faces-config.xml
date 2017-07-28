@@ -52,5 +52,19 @@
 	</managed-bean>
 	
 	
+		 <!-- ================================================================================== -->
+	 	
+		
 	
+	
+	
+	<managed-bean>
+		<managed-bean-name>mapBeanC</managed-bean-name>
+		<managed-bean-class>org.sistemas.com.bo.view.MapBeanC</managed-bean-class>
+		<managed-bean-scope>session</managed-bean-scope>		
+		<managed-property>
+			<property-name>updsService</property-name> 			
+			<value>#{updsService}</value>			
+		</managed-property>		
+	</managed-bean>
 </faces-config>
