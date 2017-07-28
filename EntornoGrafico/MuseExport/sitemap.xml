@@ -43,6 +43,24 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://www.stoptrafic.org/images/serviciobomberos.jpg</loc>
+    <lastmod>2017-07-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.stoptrafic.org/images/serviciopolicia.jpg</loc>
+    <lastmod>2017-07-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.stoptrafic.org/images/sevicioambulancia.jpg</loc>
+    <lastmod>2017-07-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://www.stoptrafic.org/index.html</loc>
     <lastmod>2017-07-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -74,6 +92,24 @@
   </url>
   <url>
     <loc>http://www.stoptrafic.org/usuario-chofer.html</loc>
+    <lastmod>2017-07-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.stoptrafic.org/home-pasajero.html</loc>
+    <lastmod>2017-07-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.stoptrafic.org/home-extranjero.html</loc>
+    <lastmod>2017-07-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.stoptrafic.org/home-chofer.html</loc>
     <lastmod>2017-07-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
