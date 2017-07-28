@@ -16,9 +16,24 @@ public class UpdsService  implements Serializable{
 	/********************************************************************/	
 	@Autowired
 	private UpdsMapper updsMapper;
-	public UpdsMapper getUpdsMapper() {	return updsMapper;	}		
-		
+	public UpdsMapper getUpdsMapper() {	return updsMapper;}
+
 	
-	public String holamundo(){return "hola"; };
 	
+	public Coordenada getCoordenada(int id){return updsMapper.getCoordenada(id); };
+	public Coordenada getCoordenadaMover(Coordenada objeto){return updsMapper.getCoordenadaMover(objeto); };
+	public List<Coordenada> getCoordenadas(){return updsMapper.getCoordenadas();};	
+	public void insertCoordenada(Coordenada objeto){updsMapper.insertCoordenada(objeto);};
+	public void deleteCoordenada(Coordenada objeto){updsMapper.deleteCoordenada(objeto);};
+	public void updateCoordenada(Coordenada objeto){updsMapper.updateCoordenada(objeto);};
+	
+	
+	public Coordenadai getCoordenadai(int id){return updsMapper.getCoordenadai(id); };
+	public Coordenadai getCoordenadaiMover(Coordenadai objeto){return updsMapper.getCoordenadaiMover(objeto); };
+	public List<Coordenadai> getCoordenadasi(){return updsMapper.getCoordenadasi();};
+	public List<Coordenadai> getCoordenadasip(){return updsMapper.getCoordenadasip();};	
+	public List<Coordenadai> getCoordenadasic(){return updsMapper.getCoordenadasic();};	
+	public void insertCoordenadai(Coordenadai objeto){updsMapper.insertCoordenadai(objeto);};
+	public void deleteCoordenadai(Coordenadai objeto){updsMapper.deleteCoordenadai(objeto);};
+	public void updateCoordenadai(Coordenadai objeto){updsMapper.updateCoordenadai(objeto);};
 }
