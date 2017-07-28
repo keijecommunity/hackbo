@@ -1,7 +1,7 @@
 .version.emergenciasch /* version checker */
 {
-	color: #0000E4;
-	background-color: #C38C93;
+	color: #0000E5;
+	background-color: #01168F;
 }
 
 .js body
@@ -304,7 +304,7 @@ body
 	position: relative;
 }
 
-#pu897-3,#u1436_img
+#pu897-3,#u6882_img,#u6884_img,#u1436_img
 {
 	width: 100%;
 }
@@ -416,11 +416,6 @@ body
 		z-index: 16;
 		width: 22.92%;
 		left: 38.5%;
-	}
-
-	#u6882_img,#u6884_img
-	{
-		width: 100%;
 	}
 
 	#u6886
@@ -582,7 +577,7 @@ body
 		left: 63.16%;
 	}
 
-	#u6882_img,#u6884_img,#u6886_img
+	#u6886_img
 	{
 		width: 100%;
 	}
@@ -733,13 +728,6 @@ body
 		left: 63.13%;
 	}
 
-	#u6882_img,#u6884_img,#u6886_img
-	{
-		padding-right: 26px;
-		padding-bottom: 47px;
-		width: 64.39%;
-	}
-
 	#u1433
 	{
 		min-height: 35px;
@@ -770,7 +758,7 @@ body
 		min-width: 320px;
 	}
 
-	#u1446_img
+	#u6886_img,#u1446_img
 	{
 		width: 100%;
 	}

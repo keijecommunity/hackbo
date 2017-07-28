@@ -1,7 +1,7 @@
 .version.emergenciaspa /* version checker */
 {
-	color: #000011;
-	background-color: #74419E;
+	color: #000010;
+	background-color: #34A202;
 }
 
 .js body
@@ -305,7 +305,7 @@ body
 	position: relative;
 }
 
-#pu897-3,#u1436_img
+#pu897-3,#u6636_img,#u6641_img,#u1436_img
 {
 	width: 100%;
 }
@@ -417,11 +417,6 @@ body
 		z-index: 16;
 		width: 22.92%;
 		left: 38.5%;
-	}
-
-	#u6636_img,#u6641_img
-	{
-		width: 100%;
 	}
 
 	#u6646
@@ -583,7 +578,7 @@ body
 		left: 63.16%;
 	}
 
-	#u6636_img,#u6641_img,#u6646_img
+	#u6646_img
 	{
 		width: 100%;
 	}
@@ -734,13 +729,6 @@ body
 		left: 63.13%;
 	}
 
-	#u6636_img,#u6641_img,#u6646_img
-	{
-		padding-right: 26px;
-		padding-bottom: 47px;
-		width: 64.39%;
-	}
-
 	#u1433
 	{
 		min-height: 35px;
@@ -771,7 +759,7 @@ body
 		min-width: 320px;
 	}
 
-	#u1446_img
+	#u6646_img,#u1446_img
 	{
 		width: 100%;
 	}

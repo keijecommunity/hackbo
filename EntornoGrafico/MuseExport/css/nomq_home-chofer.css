@@ -20,11 +20,6 @@
 		width: 100%;
 	}
 
-	#pu897-3
-	{
-		width: 100%;
-	}
-
 	#menuu8709
 	{
 		z-index: 41;
@@ -46,6 +41,7 @@
 	#menuu8724
 	{
 		z-index: 54;
+		left: 97px;
 		width: 16.34%;
 	}
 
@@ -179,6 +175,7 @@
 	{
 		z-index: 20;
 		padding-bottom: 12px;
+		margin-right: -10000px;
 		width: 15.5%;
 		left: 8.25%;
 	}
@@ -195,14 +192,17 @@
 	{
 		z-index: 25;
 		padding-bottom: 4px;
+		margin-right: -10000px;
 		width: 15.5%;
 		left: 24.84%;
 	}
 
 	#u1931:hover
 	{
-		margin-top: 0px;
+		margin-right: -10000px;
+		margin-bottom: 0px;
 		width: 15.5%;
+		margin-left: 0%;
 	}
 
 	#u1932-4
@@ -218,6 +218,7 @@
 	{
 		z-index: 15;
 		padding-bottom: 12px;
+		margin-right: -10000px;
 		width: 15.5%;
 		left: 41.42%;
 	}
@@ -225,6 +226,7 @@
 	#u1928-4
 	{
 		z-index: 16;
+		min-height: 43px;
 		margin-top: 27px;
 		width: 84.41%;
 		left: 8.07%;
