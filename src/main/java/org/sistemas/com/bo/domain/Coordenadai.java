@@ -12,10 +12,9 @@ public class Coordenadai implements Serializable{
 	private String titulo; // color
 	private String tipo; // tipo de figura geometrica 
 	private double d; // distancia 
-	private String descr; // descripcion 
-	
+	private String descr; // descripcion 	
 	private String cod; // linea de micro (1,5, etc. D,L etc.)
-	private String fam; // micro, minibus, taxi 
+	private String fam; // familia micro
 	private String dim; // dimensiones
 	private String est; // estado 
 	private String pro; // sindicato 
