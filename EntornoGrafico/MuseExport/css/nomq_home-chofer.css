@@ -1,0 +1,197 @@
+	#muse_css_mq
+	{
+		background-color: #FFFFFF;
+	}
+
+	#bp_infinity.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		min-height: 774px;
+		max-width: 1200px;
+	}
+
+	#page_position_content
+	{
+		margin-bottom: -37px;
+		width: 100%;
+	}
+
+	#menuu2180
+	{
+		z-index: 41;
+		width: 26.67%;
+		left: 8.34%;
+	}
+
+	#u2195
+	{
+		width: 24.38%;
+	}
+
+	#u2188
+	{
+		width: 24.38%;
+		left: 25%;
+	}
+
+	#u2181
+	{
+		width: 24.69%;
+		left: 50%;
+	}
+
+	#u2202
+	{
+		width: 24.69%;
+		left: 75.32%;
+	}
+
+	#menuu2209
+	{
+		z-index: 66;
+		width: 18.34%;
+		left: 73.5%;
+	}
+
+	#u2217
+	{
+		width: 49.55%;
+	}
+
+	#u2210
+	{
+		width: 49.55%;
+		left: 50.46%;
+	}
+
+	#pamphletu1933
+	{
+		z-index: 30;
+		margin-left: 8.09%;
+	}
+
+	#u1934
+	{
+		z-index: 31;
+	}
+
+	#u1939popup
+	{
+		z-index: 33;
+	}
+
+	#u1954
+	{
+		z-index: 34;
+	}
+
+	#u1955
+	{
+		z-index: 35;
+	}
+
+	#u1959
+	{
+		z-index: 37;
+	}
+
+	#u1957
+	{
+		z-index: 39;
+	}
+
+	#u1929
+	{
+		z-index: 20;
+		width: 15.5%;
+		left: 8.25%;
+	}
+
+	#u1930-4
+	{
+		z-index: 21;
+		width: 84.41%;
+		left: 8.07%;
+	}
+
+	#u1931
+	{
+		z-index: 25;
+		width: 15.5%;
+		left: 24.84%;
+	}
+
+	#u1931:hover
+	{
+		width: 15.5%;
+	}
+
+	#u1932-4
+	{
+		z-index: 26;
+		width: 84.41%;
+		left: 8.07%;
+	}
+
+	#u1927
+	{
+		z-index: 15;
+		width: 15.5%;
+		left: 41.42%;
+	}
+
+	#u1928-4
+	{
+		z-index: 16;
+		width: 84.41%;
+		left: 8.07%;
+	}
+
+	#u1926
+	{
+		z-index: 14;
+		top: -356px;
+		margin-bottom: -356px;
+		width: 83.59%;
+		margin-left: 8.25%;
+	}
+
+	#u1433
+	{
+		min-height: 132px;
+		padding-bottom: 20px;
+	}
+
+	#u1436
+	{
+		width: 19.5%;
+		left: 1.67%;
+	}
+
+	#u1446
+	{
+		margin-top: 4px;
+		width: 8.09%;
+		left: 24.59%;
+	}
+
+	#u1456-4
+	{
+		z-index: 10;
+		min-height: 95px;
+		position: relative;
+		margin-right: -10000px;
+		width: 59.42%;
+		left: 35.84%;
+	}
+
+	#u1433-bw
+	{
+		min-height: 132px;
+		margin-top: 45px;
+	}
+

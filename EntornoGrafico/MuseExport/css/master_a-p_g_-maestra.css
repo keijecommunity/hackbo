@@ -8,28 +8,68 @@
 	background-color: #303030;
 }
 
-#u1433_align_to_page
-{
-	max-width: 1200px;
-}
-
 #u1436
 {
 	background-color: transparent;
 }
 
-#u1446
+@media (min-width: 769px)
 {
-	display: block;
-	vertical-align: top;
+	#u1433_align_to_page
+	{
+		max-width: 1200px;
+	}
+
+	#u1446
+	{
+		display: block;
+		vertical-align: top;
+	}
+
+	#u1456-4
+	{
+		background-color: transparent;
+		font-size: 18px;
+		line-height: 22px;
+		color: #FFFFFF;
+	}
+
 }
 
-#u1456-4
+@media (min-width: 321px) and (max-width: 768px)
 {
-	background-color: transparent;
-	font-size: 18px;
-	line-height: 22px;
-	color: #FFFFFF;
+	#u1433_align_to_page
+	{
+		max-width: 768px;
+	}
+
+	#u1446
+	{
+		display: block;
+		vertical-align: top;
+	}
+
+	#u1456-4
+	{
+		background-color: transparent;
+		font-size: 18px;
+		line-height: 22px;
+		color: #FFFFFF;
+	}
+
 }
 
+@media (max-width: 320px)
+{
+	#u1433_align_to_page
+	{
+		max-width: 320px;
+	}
+
+	#u1446
+	{
+		background-color: transparent;
+	}
+
+}
 
